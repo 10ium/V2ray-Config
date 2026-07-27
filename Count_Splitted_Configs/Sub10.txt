@@ -3,36 +3,139 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/10ium/V2ray-Config
 #profile-web-page-url: https://github.com/10ium/V2ray-Config
+trojan://8d9ddfb4-7583-45b3-acf1-5343db385a38@1.1.1.1:8080?allowInsecure=0&peer=1.1.1.1&sni=1.1.1.1&type=tcp#%E6%9C%89%E8%B6%85%E8%BF%8720%E5%A4%9A%E4%B8%AA%E8%8A%82%E7%82%B9%EF%BC%8C%E4%B8%8D%E5%A4%9F%E8%AF%B7%E5%88%B0%E5%AE%98%E7%BD%91%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3%EF%BC%8C%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%9A%84%E5%AE%A2%E6%88%B7%E7%AB%AF
+trojan://8d9ddfb4-7583-45b3-acf1-5343db385a38@1.1.1.1:8080?allowInsecure=0&peer=1.1.1.1&sni=1.1.1.1&type=tcp#%E6%AF%8F%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%89%8D%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%88%B0%E6%9C%80%E6%96%B0%EF%BC%8C%E7%94%A8%E4%B8%8D%E4%BA%86%EF%BC%8C%E6%8D%A2%E4%B8%AA%E5%AE%A2%E6%88%B7%E7%AB%AF%EF%BC%8C%E9%87%8D%E6%96%B0%E5%AF%BC%E5%85%A5%E8%AE%A2%E9%98%85%EF%BC%8C%E7%94%A8%E6%89%8B%E6%9C%BA%E6%B5%81%E9%87%8F%E8%AF%95%E4%B8%8B%E3%80%82
+trojan://8d9ddfb4-7583-45b3-acf1-5343db385a38@1.1.1.1:820?allowInsecure=0&peer=1.1.1.1&sni=1.1.1.1&type=tcp#%E7%94%B5%E6%8A%A5%E7%BE%A4https%3A%2F%2Ft.me%2Ffeiniaoyunjichang
+trojan://8d9ddfb4-7583-45b3-acf1-5343db385a38@2.2.2.2:820?allowInsecure=0&peer=2.2.2.2&sni=2.2.2.2&type=tcp#%E9%98%B2%E5%A4%B1%E8%81%94%E9%A1%B5https%3A%2F%2Fgithub.com%2Ffeiniaoyun
+trojan://8r%3C%5B9%27l6hAO%238ZQi@151.241.215.148:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🇮🇹 IT-151.241.215.148:443
+trojan://8r%3C%5B9%27l6hAO%238ZQi@151.241.215.148:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AE%F0%9F%87%B9IT%E6%84%8F%E5%A4%A7%E5%88%A9
+trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🇳🇱 NL-152.53.200.89:8443
+trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A55
+trojan://8r%3C%5B9%27l6hAO%238ZQi@219.76.13.169:443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev#%5BTrojan%2011%5D%20%40ResistalProxy
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.145.171.206:443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A533
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#@vpnclashfa - 424
+trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.190.80:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🇳🇱 NL-91.221.190.80:443
+trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.190.80:443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A517
+trojan://90y2l3mu48d10uy3ibad@195.154.202.110:58290?security=tls&sni=ads.x5.ru&allowInsecure=true#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://90y2l3mu48d10uy3ibad@195.154.202.112:58290?security=tls&sni=ads.x5.ru&allowInsecure=true#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?security=tls&sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://90y2l3mu48d10uy3ibad@51.159.103.137:58290?security=tls&sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://92435aa8-f3b6-466a-ad58-c55cbb6d2acf@45.149.92.71:443?security=tls&sni=hinet.mjt000.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://938a1fb2b751d876bb4c8d3ba706054f@179.237.75.177:17373?security=none&host=rd.autos.yahoo.com&headerType=http&type=tcp#@vpnclashfa - 425
+trojan://938a1fb2b751d876bb4c8d3ba706054f@179.237.75.177:17373?security=none&host=rd.autos.yahoo.com&headerType=http&type=tcp#ProxyMtpVPN-63  🚀 Need a premium VPN config? Try 👉 @failvpn_bot
+trojan://94af0550-902b-11eb-b135-1239d0255272@nl-trojan.bonds.id:443?allowInsecure=0#%5BTrojan%2012%5D%20%40ResistalProxy
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.125.55.109:2053?security=tls&sni=official.tokyometropolis.kyiv.ua&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-133.125.55.109:2053
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:2053?security=tls&sni=official.seoulcityhall.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Korea,%20Republic%20of%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:8443?security=tls&sni=official.seoulcitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Korea,%20Republic%20of%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443?security=tls&sni=207.148.100.75&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443?security=tls&sni=207.148.100.75&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443?security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443?security=tls&sni=official.taipeicitygovernment.org.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.192.190:8443?security=tls&sni=207.148.100.75&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.192.190:8443?security=tls&sni=207.148.100.75&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.192.190:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.192.190:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.192.190:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.192.190:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.192.190:8443?security=tls&sni=official.taipeicitygovernment.org.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.195.76:8443?security=tls&sni=207.148.100.75&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.195.76:8443?security=tls&sni=207.148.100.75&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.195.76:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.195.76:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.195.76:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.195.76:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.195.76:8443?security=tls&sni=official.taipeicitygovernment.org.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.201.242:8443?security=tls&sni=207.148.100.75&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.201.242:8443?security=tls&sni=207.148.100.75&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.201.242:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.201.242:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.201.242:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.201.242:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@36.228.201.242:8443?security=tls&sni=official.taipeicitygovernment.org.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@59.125.131.163:8443?security=tls&sni=207.148.100.75&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@59.125.131.163:8443?security=tls&sni=207.148.100.75&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@59.125.131.163:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@59.125.131.163:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@59.125.131.163:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@59.125.131.163:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@59.125.131.163:8443?security=tls&sni=official.taipeicitygovernment.org.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=207.148.100.75&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Tainan%20City%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=207.148.100.75&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Tainan%20City%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Tainan%20City%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Tainan%20City%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Tainan%20City%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Tainan%20City%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Tainan%20City%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443?security=tls&sni=official.taipeicitygovernment.org.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Tainan%20City%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443?security=tls&sni=207.148.100.75&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Banqiao%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443?security=tls&sni=207.148.100.75&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Banqiao%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Banqiao%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Banqiao%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Banqiao%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Banqiao%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443?security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Banqiao%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443?security=tls&sni=official.taipeicitygovernment.org.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Banqiao%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?security=tls&sni=207.148.100.75&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?security=tls&sni=207.148.100.75&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@61.221.189.241:8443?security=tls&sni=official.taipeicitygovernment.org.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Kaohsiung%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://97fdf760-7bbf-11eb-8e14-1239d0255272@103.253.24.216:443?security=tls&sni=sg3-trojan.bonds.id&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://988sR-269PKCKlb&3pMrFTEr@104.18.155.119:443?sni=LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV&type=ws&fp=chrome&alpn=http/1.1#🔒 TR-WS-NA 🏴‍☠️ NA-104.18.155.119:443
+trojan://988sR-269PKCKlb&3pMrFTEr@104.18.156.119:443?sni=LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV&type=ws&fp=chrome&alpn=http/1.1#🔒 TR-WS-NA 🏴‍☠️ NA-104.18.156.119:443
+trojan://988sR-269PKCKlb&3pMrFTEr@104.19.164.155:2083?sni=LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV&type=ws&path=/eyJqdW5rIjoicGpncHl4eVZoSnZQcFRTIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&fp=chrome&alpn=http/1.1#🔒 TR-WS-NA 🏴‍☠️ NA-104.19.164.155:2083
+trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443?security=tls&sni=fscus.fscloud123456789.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://9BbIGN.nF=gztO-iq7ETmxdJ@199.247.5.172:13448?security=tls&sni=ads.x5.ru&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9BbIGN.nF=gztO-iq7ETmxdJ@45.76.94.79:13448?security=tls&sni=ads.x5.ru&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448?security=tls&sni=ads.x5.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448?security=tls&sni=ads.x5.ru&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9JwHtxaPCBdgM=bEqQDoYOV4Xmfh@144.202.24.102:16149?security=tls&sni=eh.vk.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Atlanta%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://9JwHtxaPCBdgM=bEqQDoYOV4Xmfh@155.138.219.57:16149?security=tls&sni=web.max.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Atlanta%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?sni=153.75.250.171.sslip.io&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇺🇸 US-153.75.250.171:49271
 trojan://9b934dc3-e441-4e5c-97d6-681747d4d966@185.239.48.207:443?security=tls&sni=joss.gpj.web.id&type=ws&host=joss.gpj.web.id&fp=randomized#🔒 TR-WS-TLS 🇮🇱 IL-185.239.48.207:443
 trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?security=tls&sni=red-cell-47f9.milaniomilan9.workers.dev&type=ws&host=red-cell-47f9.milaniomilan9.workers.dev&path=%2F&fp=chrome&allowInsecure=0#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.108.147:8080
-trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?sni=red-cell-47f9.milaniomilan9.workers.dev#%E6%9C%AA%E7%9F%A553
+trojan://9c521e24-7326-acd3-acec-d0afac2b465d@104.25.108.147:8080?sni=red-cell-47f9.milaniomilan9.workers.dev#%E6%9C%AA%E7%9F%A560
 trojan://9d23ec89-a50a-4634-b09e-37330ce09b37@220.130.58.136:31101?security=tls&sni=green2.cdntencentmusic.com&type=raw#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taichung%20%F0%9F%8C%8F%20TR-RAW-TLS%204%E2%83%A3
 trojan://9yu6m5okr@104.21.50.5:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.5:443
 trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443
-trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#@vpnclashfa - 1020
-trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#RELAY🚩 | production.tj.ojan.workers.dev-443 | 88.51ms
+trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#@vpnclashfa - 426
+trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#RELAY🚩 | production.tj.ojan.workers.dev-443 | 87.51ms
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.237.145.189#79.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=172.237.145.189#86.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://AQ71834695@alert-monster.rooster465.autos:443?allowInsecure=1#@vpnclashfa - 1021
-trojan://AQ71834695@alert-monster.rooster465.autos:443?allowInsecure=1#✅@AR14N24b
-trojan://AQ71834695@alert-monster.rooster465.autos:443?allowInsecure=1#🆔ar14n24b%20🔓%20TR--N/A%20🇯🇵%20JP%20109ms
-trojan://AQ71834695@concise-lacewing.rooster465.autos:443?allowInsecure=1&sni=concise-lacewing.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C1.5MB/s
+trojan://AQ71834695@85.234.83.141:443?allowInsecure=1#🔒 TR-TCP-NA 🇯🇵 JP-85.234.83.141:443
+trojan://AQ71834695@85.234.83.155:443?sni=better-silkworm.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇯🇵 JP-85.234.83.155:443
+trojan://AQ71834695@85.234.83.59:443?allowInsecure=1#🔒 TR-TCP-NA 🇯🇵 JP-85.234.83.59:443
+trojan://AQ71834695@95.85.94.144:443?sni=tops-marlin.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇯🇵 JP-95.85.94.144:443
+trojan://AQ71834695@95.85.94.153:443?sni=fit-heron.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇯🇵 JP-95.85.94.153:443
+trojan://AQ71834695@95.85.94.220:443?allowInsecure=1#🔒 TR-TCP-NA 🇯🇵 JP-95.85.94.220:443
+trojan://AQ71834695@alert-monster.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5122512%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+trojan://AQ71834695@alert-monster.rooster465.autos:443?allowInsecure=1#@vpnclashfa - 427
+trojan://AQ71834695@alert-monster.rooster465.autos:443?allowInsecure=1#JP🇯🇵 | alert-monster.rooster465.autos-443 | 149.55ms
+trojan://AQ71834695@better-silkworm.rooster465.autos:443?allowInsecure=1&sni=better-silkworm.rooster465.autos#@vpnclashfa - 428
+trojan://AQ71834695@concise-lacewing.rooster465.autos:443?security=tls&sni=concise-lacewing.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-85.234.83.41-3134
+trojan://AQ71834695@fit-heron.rooster465.autos:443?allowInsecure=1&sni=fit-heron.rooster465.autos#@vpnclashfa - 429
+trojan://AQ71834695@fit-heron.rooster465.autos:443?allowInsecure=1&sni=fit-heron.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
+trojan://AQ71834695@harmless-akita.rooster465.autos:443?allowInsecure=1#@vpnclashfa - 430
+trojan://AQ71834695@integral-elf.rooster465.autos:443?allowInsecure=1#@vpnclashfa - 431
+trojan://AQ71834695@integral-elf.rooster465.autos:443?allowInsecure=1#🇯🇵[openproxylist.com] trojan-JP
+trojan://AQ71834695@possible-pup.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC_16
+trojan://AQ71834695@tops-marlin.rooster465.autos:443?allowInsecure=1&sni=tops-marlin.rooster465.autos#@vpnclashfa - 432
+trojan://AQ71834695@tops-marlin.rooster465.autos:443?allowInsecure=1&sni=tops-marlin.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
 trojan://Aimer@104.26.15.138:2053?security=t...%20&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-T...%20%204%E2%83%A3
 trojan://Aimer@135.84.76.152:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp&fp=chrome&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-135.84.76.152:2087
 trojan://Aimer@162.159.38.101:2096?security=...&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-...%204%E2%83%A3
-trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8121715%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonU
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#@VIProxys
-trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#@vpnclashfa - 1022
-trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#RELAY🚩 | epge.muarua.filegear-sg.me-2053 | 9.88ms
-trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=%2F&sni=epge.muarua.filegear-sg.me&type=ws#@vpnclashfa - 1023
-trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=%2F&sni=epge.muarua.filegear-sg.me&type=ws#RELAY🚩 | epge.muarua.filegear-sg.me-2053 | 12.97ms
-trojan://Aimer@167.68.4.199:2053?path=%2F&security=tls&insecure=0&host=epge.muarua.filegear-sg.me&type=ws&allowInsecure=0&sni=epge.muarua.filegear-sg.me#@VIProxys🌟 #پروکسی_پرسرعت #ИИ_технологии #عاجل #隐私保护 #Bitcoin #抗议 🌟
-trojan://Aimer@167.68.4.199:2053?path=%2F&security=tls&insecure=0&host=epge.muarua.filegear-sg.me&type=ws&allowInsecure=0&sni=epge.muarua.filegear-sg.me#RELAY🚩 | epge.muarua.filegear-sg.me-2053 | 351.58ms
+trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#@vpnclashfa - 433
+trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#RELAY🚩 | epge.muarua.filegear-sg.me-2053 | 10.39ms
+trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=%2F&sni=epge.muarua.filegear-sg.me&type=ws#@vpnclashfa - 434
+trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=%2F&sni=epge.muarua.filegear-sg.me&type=ws#RELAY🚩 | epge.muarua.filegear-sg.me-2053 | 164.45ms
 trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw#🔒 TR-WS-NA 🇺🇸 US-167.68.4.199:2053
 trojan://Aimer@23.95.215.205:8443?sni=epme.ambercc.filegear-sg.me&type=tcp#%5BTrojan%2013%5D%20%40ResistalProxy
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=ads.x5.ru&allowInsecure=true#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Sp%C3%A5nga%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -43,46 +146,47 @@ trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@108.61.123.140:25075?security=tls&sni=ads
 trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@95.179.210.231:25075?security=tls&sni=ads.x5.ru&allowInsecure=true#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Aubervilliers%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://Bw5Mz7QkVp@155.138.220.91:443?sni=z-v2-077769.kailib.com&type=tcp#%5BTrojan%2014%5D%20%40ResistalProxy
 trojan://Bw5Mz7QkVp@45.32.223.2:443?security=tls&sni=z-v2-080515.kailib.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Atlanta%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://BxceQaOe@116.49.237.130:2673/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#@vpnclashfa - 1024
-trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@vpnclashfa - 1025
-trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=119.246.1.143#%F0%9F%87%AD%F0%9F%87%B0122562%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=119.246.1.143#@vpnclashfa - 1026
-trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=119.246.1.143#✅@AR14N24b
-trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=119.246.1.143#🆔ar14n24b%20🔒%20TR-TCP-N/A%20🇭🇰%20HK%20147ms
+trojan://BxceQaOe@116.49.237.130:2673/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#@vpnclashfa - 435
+trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@vpnclashfa - 436
+trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#✅@AR14N24b
+trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🆔ar14n24b%20🔒%20TR-TCP-N/A%20❔%20XX%20201ms
+trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🆔v2ray1_ng%20🔒%20TR-TCP-N/A%20❔%20XX%20206ms
+trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=119.246.1.143#%F0%9F%87%AD%F0%9F%87%B0122611%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=119.246.1.143#HK🇭🇰 | 119.246.1.143-443 | 157.22ms
 trojan://BxceQaOe@119.246.1.143:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://BxceQaOe@119.246.1.143:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#@vpnclashfa - 1027
-trojan://BxceQaOe@119.246.1.143:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#HK🇭🇰 | 119.246.1.143-443 | 153.67ms
-trojan://BxceQaOe@119.246.1.143:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#🆔configfa%20🔒%20TR-TCP-N/A%20❔%20XX%20146ms
+trojan://BxceQaOe@119.246.1.143:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#@vpnclashfa - 437
+trojan://BxceQaOe@119.246.1.143:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#HK🇭🇰 | 119.246.1.143-443 | 154.73ms
+trojan://BxceQaOe@119.246.1.143:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#🆔configfa%20🔒%20TR-TCP-N/A%20❔%20XX%20208ms
 trojan://BxceQaOe@13.114.104.131:4569?security=tls&sni=t.me/ripaojiedian&allowInsecure=true#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-NA%204%E2%83%A3
 trojan://BxceQaOe@13.115.134.113:4329?security=tls&sni=t.me/ripaojiedian&allowInsecure=true#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-NA%204%E2%83%A3
-trojan://BxceQaOe@16.163.144.226:27161/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://BxceQaOe@16.163.144.226:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://BxceQaOe@16.163.144.226:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20003
-trojan://BxceQaOe@16.163.144.226:27161?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
+trojan://BxceQaOe@16.162.119.232:7674/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://BxceQaOe@16.162.119.232:7674?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://BxceQaOe@16.162.119.232:7674?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20002
+trojan://BxceQaOe@16.162.119.232:7674?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
 trojan://BxceQaOe@18.166.29.72:32434/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@18.166.29.72:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://BxceQaOe@18.166.29.72:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20008
-trojan://BxceQaOe@18.166.29.72:32434?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://BxceQaOe@18.166.29.72:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20007
+trojan://BxceQaOe@18.166.29.72:32434?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://BxceQaOe@18.167.99.12:3579?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://BxceQaOe@18.183.93.4:34638/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://BxceQaOe@18.183.93.4:34638?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://BxceQaOe@18.183.93.4:34638?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20002
+trojan://BxceQaOe@18.183.93.4:34638?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://BxceQaOe@18.183.93.4:6102/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@18.183.93.4:6102?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@18.183.93.4:6102?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20001
+trojan://BxceQaOe@18.183.93.4:6102?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC5
 trojan://BxceQaOe@203.198.84.221:443?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://BxceQaOe@35.77.116.7:35966/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-trojan://BxceQaOe@35.77.116.7:35966?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-trojan://BxceQaOe@35.77.116.7:35966?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20011
-trojan://BxceQaOe@35.77.116.7:35966?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
-trojan://BxceQaOe@38.180.191.251:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian#@vpnclashfa - 1028
-trojan://BxceQaOe@43.198.210.48:27826/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://BxceQaOe@43.198.210.48:27826?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://BxceQaOe@43.198.210.48:27826?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20001
-trojan://BxceQaOe@43.198.210.48:27826?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
+trojan://BxceQaOe@38.180.191.251:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian#@vpnclashfa - 438
+trojan://BxceQaOe@43.198.187.250:39412/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
+trojan://BxceQaOe@43.198.187.250:39412?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
+trojan://BxceQaOe@43.198.187.250:39412?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20001
+trojan://BxceQaOe@43.198.187.250:39412?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
 trojan://BxceQaOe@43.206.194.122:2595?security=tls&sni=t.me/ripaojiedian&allowInsecure=true#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-NA%204%E2%83%A3
 trojan://BxceQaOe@52.194.193.12:11945?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://BxceQaOe@52.195.185.240:2053?security=tls&sni=t.me/ripaojiedian&allowInsecure=true#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-NA%204%E2%83%A3
 trojan://BxceQaOe@52.196.143.203:804?security=tls&sni=t.me/ripaojiedian&allowInsecure=true#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-NA%204%E2%83%A3
 trojan://BxceQaOe@54.238.144.17:3194?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://BxceQaOe@54.46.125.192:27161/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@54.46.125.192:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@54.46.125.192:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20002
-trojan://BxceQaOe@54.46.125.192:27161?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
 trojan://BxceQaOe@57.180.49.42:3579?security=tls&sni=t.me/ripaojiedian&allowInsecure=true#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-NA%204%E2%83%A3
 trojan://BxceQaOe@58.152.110.50:443?security=tls&sni=t.me/ripaojiedian&allowInsecure=true#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-NA%204%E2%83%A3
 trojan://BxceQaOe@58.152.110.50:443?security=tls&sni=t.me/ripaojiedian&allowInsecure=true&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
@@ -151,249 +255,280 @@ trojan://BxceQaOe@58.152.53.174:443?security=tls&sni=t.me/ripaojiedian#%F0%9F%87
 trojan://BxceQaOe@58.152.53.219:443?security=tls&sni=t.me/ripaojiedian&allowInsecure=true#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-NA%204%E2%83%A3
 trojan://BxceQaOe@58.152.53.219:443?security=tls&sni=t.me/ripaojiedian&allowInsecure=true#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#TROJAN%2020%20t.me%2FiProxyChannel
-trojan://CF68213490@18.184.4.15:443?fp=chrome&sni=harmless-lab.rooster465.autos#@vpnclashfa - 1029
-trojan://CF68213490@18.184.4.15:443?fp=chrome&sni=harmless-lab.rooster465.autos#JP🇯🇵 | harmless-lab.rooster465.autos-443 | 129.58ms
-trojan://CF68213490@34.217.29.0:443?fp=chrome&sni=balanced-puma.rooster465.autos#@vpnclashfa - 1030
-trojan://CF68213490@44.251.239.102:443?fp=chrome&sni=polite-coyote.rooster465.autos#@vpnclashfa - 1031
-trojan://CF68213490@62.112.222.151:443?allowInsecure=1#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.151:443
-trojan://CF68213490@62.112.222.151:443?sni=emerging-weevil.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1122664%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://CF68213490@62.112.222.151:443?sni=emerging-weevil.rooster465.autos#✅@AR14N24b
+trojan://CF68213490@18.184.4.15:443?fp=chrome&sni=harmless-lab.rooster465.autos#JP🇯🇵 | harmless-lab.rooster465.autos-443 | 130.59ms
+trojan://CF68213490@34.217.29.0:443?fp=chrome&sni=balanced-puma.rooster465.autos#@vpnclashfa - 439
+trojan://CF68213490@44.251.239.102:443?fp=chrome&sni=polite-coyote.rooster465.autos#@vpnclashfa - 440
+trojan://CF68213490@62.112.222.151:443?sni=emerging-weevil.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1122713%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+trojan://CF68213490@62.112.222.151:443?sni=emerging-weevil.rooster465.autos#@vpnclashfa - 441
+trojan://CF68213490@62.112.222.151:443?sni=emerging-weevil.rooster465.autos#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.151:443
 trojan://CF68213490@85.234.83.139:443?security=tls&sni=harmless-lab.rooster465.autos&type=tcp&allowInsecure=0#🔒 TR-TCP-TLS 🇯🇵 JP-85.234.83.139:443
-trojan://CF68213490@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1032
-trojan://CF68213490@active-hippo.rooster465.autos:443?sni=active-hippo.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1033
-trojan://CF68213490@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1034
-trojan://CF68213490@adapting-giraffe.rooster465.autos:443?sni=adapting-giraffe.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1035
-trojan://CF68213490@alert-fish.rooster465.autos:443?sni=alert-fish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1036
-trojan://CF68213490@alert-redfish.rooster465.autos:443?sni=alert-redfish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1037
-trojan://CF68213490@allowing-halibut.rooster465.autos:443?sni=allowing-halibut.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1038
-trojan://CF68213490@awake-satyr.rooster465.autos:443?sni=awake-satyr.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1039
-trojan://CF68213490@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1040
-trojan://CF68213490@brief-warthog.rooster465.autos:443?sni=brief-warthog.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1041
-trojan://CF68213490@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1042
-trojan://CF68213490@careful-penguin.rooster465.autos:443?sni=careful-penguin.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1043
-trojan://CF68213490@caring-wallaby.rooster465.autos:443?sni=caring-wallaby.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1044
-trojan://CF68213490@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1045
-trojan://CF68213490@charming-puma.rooster465.autos:443?sni=charming-puma.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1046
-trojan://CF68213490@clear-heron.rooster465.autos:443?sni=clear-heron.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1047
-trojan://CF68213490@climbing-frog.rooster465.autos:443?sni=climbing-frog.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1048
-trojan://CF68213490@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1049
-trojan://CF68213490@composed-sheep.rooster465.autos:443?sni=composed-sheep.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1050
-trojan://CF68213490@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1051
-trojan://CF68213490@darling-mongrel.rooster465.autos:443?sni=darling-mongrel.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1052
-trojan://CF68213490@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1053
-trojan://CF68213490@devoted-zebra.rooster465.autos:443?sni=devoted-zebra.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1054
-trojan://CF68213490@diverse-thrush.rooster465.autos:443?sni=diverse-thrush.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1055
-trojan://CF68213490@eager-platypus.rooster465.autos:443?sni=eager-platypus.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1056
-trojan://CF68213490@easy-barnacle.rooster465.autos:443?sni=easy-barnacle.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1057
-trojan://CF68213490@emerging-weevil.rooster465.autos:443?allowInsecure=1#PL🇵🇱 | emerging-weevil.rooster465.autos-443 | 208.45ms
-trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.151-0120
-trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.151-0124
-trojan://CF68213490@eminent-dogfish.rooster465.autos:443?sni=eminent-dogfish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1058
-trojan://CF68213490@eminent-panther.rooster465.autos:443?sni=eminent-panther.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1059
-trojan://CF68213490@enormous-whippet.rooster465.autos:443?sni=enormous-whippet.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1060
-trojan://CF68213490@equipped-moth.rooster465.autos:443?sni=equipped-moth.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1061
-trojan://CF68213490@eternal-horse.rooster465.autos:443?sni=eternal-horse.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1062
-trojan://CF68213490@eternal-kingfish.rooster465.autos:443?sni=eternal-kingfish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1063
-trojan://CF68213490@eternal-perch.rooster465.autos:443?sni=eternal-perch.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1064
-trojan://CF68213490@eternal-woodcock.rooster465.autos:443?sni=eternal-woodcock.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1065
-trojan://CF68213490@evolving-mollusk.rooster465.autos:443?sni=evolving-mollusk.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1066
-trojan://CF68213490@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1067
-trojan://CF68213490@excited-squirrel.rooster465.autos:443?sni=excited-squirrel.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1068
-trojan://CF68213490@fair-werewolf.rooster465.autos:443?sni=fair-werewolf.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1069
-trojan://CF68213490@flowing-eagle.rooster465.autos:443?sni=flowing-eagle.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1070
-trojan://CF68213490@free-hare.rooster465.autos:443?sni=free-hare.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1071
-trojan://CF68213490@funny-hawk.rooster465.autos:443?sni=funny-hawk.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1072
-trojan://CF68213490@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1073
-trojan://CF68213490@gentle-honeybee.rooster465.autos:443?sni=gentle-honeybee.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1074
-trojan://CF68213490@gentle-mastiff.rooster465.autos:443?sni=gentle-mastiff.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1075
-trojan://CF68213490@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1076
-trojan://CF68213490@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1077
-trojan://CF68213490@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1078
-trojan://CF68213490@growing-ram.rooster465.autos:443?sni=growing-ram.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1079
-trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=harmless-lab.rooster465.autos#@vpnclashfa - 1080
-trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=harmless-lab.rooster465.autos#JP🇯🇵 | harmless-lab.rooster465.autos-443 | 141.74ms
-trojan://CF68213490@harmless-lab.rooster465.autos:443?sni=harmless-lab.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1081
-trojan://CF68213490@helping-shark.rooster465.autos:443?sni=helping-shark.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1082
-trojan://CF68213490@immense-eagle.rooster465.autos:443?sni=immense-eagle.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1083
-trojan://CF68213490@immune-mullet.rooster465.autos:443?sni=immune-mullet.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1084
-trojan://CF68213490@in-oriole.rooster465.autos:443?sni=in-oriole.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1085
-trojan://CF68213490@informed-stud.rooster465.autos:443?sni=informed-stud.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1086
-trojan://CF68213490@innocent-rattler.rooster465.autos:443?sni=innocent-rattler.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1087
-trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1088
-trojan://CF68213490@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1089
-trojan://CF68213490@learning-wren.rooster465.autos:443?sni=learning-wren.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1090
-trojan://CF68213490@live-drake.rooster465.autos:443?sni=live-drake.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1091
-trojan://CF68213490@logical-koala.rooster465.autos:443?sni=logical-koala.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1092
-trojan://CF68213490@loyal-molly.rooster465.autos:443?sni=loyal-molly.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1093
-trojan://CF68213490@modest-bat.rooster465.autos:443?sni=modest-bat.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1094
-trojan://CF68213490@moral-basilisk.rooster465.autos:443?sni=moral-basilisk.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1095
-trojan://CF68213490@moved-bluegill.rooster465.autos:443?sni=moved-bluegill.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1096
-trojan://CF68213490@musical-manatee.rooster465.autos:443?sni=musical-manatee.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1097
-trojan://CF68213490@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1098
-trojan://CF68213490@nearby-egret.rooster465.autos:443?sni=nearby-egret.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1099
-trojan://CF68213490@next-turkey.rooster465.autos:443?sni=next-turkey.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1100
-trojan://CF68213490@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1101
-trojan://CF68213490@powerful-troll.rooster465.autos:443?sni=powerful-troll.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1102
-trojan://CF68213490@present-ram.rooster465.autos:443?sni=present-ram.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1103
-trojan://CF68213490@prime-buzzard.rooster465.autos:443?sni=prime-buzzard.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1104
-trojan://CF68213490@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1105
-trojan://CF68213490@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1106
-trojan://CF68213490@relevant-oryx.rooster465.autos:443?sni=relevant-oryx.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1107
-trojan://CF68213490@rested-osprey.rooster465.autos:443?sni=rested-osprey.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1108
-trojan://CF68213490@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1109
-trojan://CF68213490@sacred-shepherd.rooster465.autos:443?sni=sacred-shepherd.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1110
-trojan://CF68213490@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1111
-trojan://CF68213490@saved-tuna.rooster465.autos:443?sni=saved-tuna.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1112
-trojan://CF68213490@settling-humpback.rooster465.autos:443?sni=settling-humpback.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1113
-trojan://CF68213490@shining-piranha.rooster465.autos:443?sni=shining-piranha.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1114
-trojan://CF68213490@sincere-crappie.rooster465.autos:443?sni=sincere-crappie.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1115
-trojan://CF68213490@skilled-lioness.rooster465.autos:443?sni=skilled-lioness.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1116
-trojan://CF68213490@smashing-fawn.rooster465.autos:443?sni=smashing-fawn.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1117
-trojan://CF68213490@smiling-fowl.rooster465.autos:443?sni=smiling-fowl.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1118
-trojan://CF68213490@smooth-hornet.rooster465.autos:443?sni=smooth-hornet.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1119
-trojan://CF68213490@smooth-lark.rooster465.autos:443?sni=smooth-lark.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1120
-trojan://CF68213490@star-bluejay.rooster465.autos:443?sni=star-bluejay.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1121
-trojan://CF68213490@star-cheetah.rooster465.autos:443?sni=star-cheetah.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1122
-trojan://CF68213490@star-dodo.rooster465.autos:443?sni=star-dodo.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1123
-trojan://CF68213490@star-hagfish.rooster465.autos:443?sni=star-hagfish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1124
-trojan://CF68213490@star-moray.rooster465.autos:443?sni=star-moray.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1125
-trojan://CF68213490@steady-prawn.rooster465.autos:443?sni=steady-prawn.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1126
-trojan://CF68213490@summary-firefly.rooster465.autos:443?sni=summary-firefly.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1127
-trojan://CF68213490@summary-lemming.rooster465.autos:443?sni=summary-lemming.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1128
-trojan://CF68213490@thankful-mustang.rooster465.autos:443?sni=thankful-mustang.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1129
-trojan://CF68213490@tight-gator.rooster465.autos:443?sni=tight-gator.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1130
-trojan://CF68213490@together-impala.rooster465.autos:443?sni=together-impala.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1131
-trojan://CF68213490@tolerant-rattler.rooster465.autos:443?sni=tolerant-rattler.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1132
-trojan://CF68213490@tolerant-stag.rooster465.autos:443?sni=tolerant-stag.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1133
-trojan://CF68213490@ultimate-jaguar.rooster465.autos:443?sni=ultimate-jaguar.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1134
-trojan://CF68213490@united-molly.rooster465.autos:443?sni=united-molly.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1135
-trojan://CF68213490@upright-rhino.rooster465.autos:443?sni=upright-rhino.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1136
-trojan://CF68213490@upward-yak.rooster465.autos:443?sni=upward-yak.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1137
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1138
-trojan://CF68213490@wealthy-gobbler.rooster465.autos:443?sni=wealthy-gobbler.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1139
-trojan://CF68213490@welcome-monitor.rooster465.autos:443?sni=welcome-monitor.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 1140
+trojan://CF68213490@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 442
+trojan://CF68213490@active-hippo.rooster465.autos:443?sni=active-hippo.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 443
+trojan://CF68213490@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 444
+trojan://CF68213490@adapting-giraffe.rooster465.autos:443?sni=adapting-giraffe.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 445
+trojan://CF68213490@alert-fish.rooster465.autos:443?sni=alert-fish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 446
+trojan://CF68213490@alert-redfish.rooster465.autos:443?sni=alert-redfish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 447
+trojan://CF68213490@allowing-halibut.rooster465.autos:443?sni=allowing-halibut.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 448
+trojan://CF68213490@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 449
+trojan://CF68213490@brief-warthog.rooster465.autos:443?sni=brief-warthog.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 450
+trojan://CF68213490@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 451
+trojan://CF68213490@careful-penguin.rooster465.autos:443?sni=careful-penguin.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 452
+trojan://CF68213490@caring-wallaby.rooster465.autos:443?sni=caring-wallaby.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 453
+trojan://CF68213490@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 454
+trojan://CF68213490@charming-puma.rooster465.autos:443?sni=charming-puma.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 455
+trojan://CF68213490@clear-heron.rooster465.autos:443?sni=clear-heron.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 456
+trojan://CF68213490@climbing-frog.rooster465.autos:443?sni=climbing-frog.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 457
+trojan://CF68213490@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 458
+trojan://CF68213490@composed-sheep.rooster465.autos:443?sni=composed-sheep.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 459
+trojan://CF68213490@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 460
+trojan://CF68213490@darling-mongrel.rooster465.autos:443?sni=darling-mongrel.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 461
+trojan://CF68213490@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 462
+trojan://CF68213490@eager-platypus.rooster465.autos:443?sni=eager-platypus.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 463
+trojan://CF68213490@easy-barnacle.rooster465.autos:443?sni=easy-barnacle.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 464
+trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.151-0144
+trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.151-0159
+trojan://CF68213490@eminent-dogfish.rooster465.autos:443?sni=eminent-dogfish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 465
+trojan://CF68213490@eminent-panther.rooster465.autos:443?sni=eminent-panther.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 466
+trojan://CF68213490@eternal-kingfish.rooster465.autos:443?sni=eternal-kingfish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 467
+trojan://CF68213490@eternal-perch.rooster465.autos:443?sni=eternal-perch.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 468
+trojan://CF68213490@eternal-woodcock.rooster465.autos:443?sni=eternal-woodcock.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 469
+trojan://CF68213490@evolving-mollusk.rooster465.autos:443?sni=evolving-mollusk.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 470
+trojan://CF68213490@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 471
+trojan://CF68213490@excited-squirrel.rooster465.autos:443?sni=excited-squirrel.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 472
+trojan://CF68213490@fair-werewolf.rooster465.autos:443?sni=fair-werewolf.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 473
+trojan://CF68213490@flowing-eagle.rooster465.autos:443?sni=flowing-eagle.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 474
+trojan://CF68213490@free-hare.rooster465.autos:443?sni=free-hare.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 475
+trojan://CF68213490@funny-hawk.rooster465.autos:443?sni=funny-hawk.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 476
+trojan://CF68213490@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 477
+trojan://CF68213490@gentle-honeybee.rooster465.autos:443?sni=gentle-honeybee.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 478
+trojan://CF68213490@gentle-mastiff.rooster465.autos:443?sni=gentle-mastiff.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 479
+trojan://CF68213490@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 480
+trojan://CF68213490@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 481
+trojan://CF68213490@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 482
+trojan://CF68213490@growing-ram.rooster465.autos:443?sni=growing-ram.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 483
+trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=harmless-lab.rooster465.autos#@vpnclashfa - 484
+trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=harmless-lab.rooster465.autos#JP🇯🇵 | harmless-lab.rooster465.autos-443 | 148.7ms
+trojan://CF68213490@harmless-lab.rooster465.autos:443?sni=harmless-lab.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 485
+trojan://CF68213490@helping-shark.rooster465.autos:443?sni=helping-shark.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 486
+trojan://CF68213490@immense-eagle.rooster465.autos:443?sni=immense-eagle.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 487
+trojan://CF68213490@immune-mullet.rooster465.autos:443?sni=immune-mullet.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 488
+trojan://CF68213490@in-oriole.rooster465.autos:443?sni=in-oriole.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 489
+trojan://CF68213490@informed-stud.rooster465.autos:443?sni=informed-stud.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 490
+trojan://CF68213490@innocent-rattler.rooster465.autos:443?sni=innocent-rattler.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 491
+trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 492
+trojan://CF68213490@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 493
+trojan://CF68213490@learning-wren.rooster465.autos:443?sni=learning-wren.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 494
+trojan://CF68213490@live-drake.rooster465.autos:443?sni=live-drake.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 495
+trojan://CF68213490@loyal-molly.rooster465.autos:443?sni=loyal-molly.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 496
+trojan://CF68213490@modest-bat.rooster465.autos:443?sni=modest-bat.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 497
+trojan://CF68213490@moral-basilisk.rooster465.autos:443?sni=moral-basilisk.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 498
+trojan://CF68213490@moved-bluegill.rooster465.autos:443?sni=moved-bluegill.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 499
+trojan://CF68213490@musical-manatee.rooster465.autos:443?sni=musical-manatee.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 500
+trojan://CF68213490@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 501
+trojan://CF68213490@nearby-egret.rooster465.autos:443?sni=nearby-egret.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 502
+trojan://CF68213490@next-turkey.rooster465.autos:443?sni=next-turkey.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 503
+trojan://CF68213490@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 504
+trojan://CF68213490@powerful-troll.rooster465.autos:443?sni=powerful-troll.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 505
+trojan://CF68213490@present-ram.rooster465.autos:443?sni=present-ram.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 506
+trojan://CF68213490@prime-buzzard.rooster465.autos:443?sni=prime-buzzard.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 507
+trojan://CF68213490@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 508
+trojan://CF68213490@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 509
+trojan://CF68213490@relevant-oryx.rooster465.autos:443?sni=relevant-oryx.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 510
+trojan://CF68213490@rested-osprey.rooster465.autos:443?sni=rested-osprey.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 511
+trojan://CF68213490@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 512
+trojan://CF68213490@sacred-shepherd.rooster465.autos:443?sni=sacred-shepherd.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 513
+trojan://CF68213490@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 514
+trojan://CF68213490@saved-tuna.rooster465.autos:443?sni=saved-tuna.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 515
+trojan://CF68213490@settling-humpback.rooster465.autos:443?sni=settling-humpback.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 516
+trojan://CF68213490@shining-piranha.rooster465.autos:443?sni=shining-piranha.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 517
+trojan://CF68213490@sincere-crappie.rooster465.autos:443?sni=sincere-crappie.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 518
+trojan://CF68213490@skilled-lioness.rooster465.autos:443?sni=skilled-lioness.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 519
+trojan://CF68213490@smashing-fawn.rooster465.autos:443?sni=smashing-fawn.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 520
+trojan://CF68213490@smiling-fowl.rooster465.autos:443?sni=smiling-fowl.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 521
+trojan://CF68213490@smooth-hornet.rooster465.autos:443?sni=smooth-hornet.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 522
+trojan://CF68213490@star-cheetah.rooster465.autos:443?sni=star-cheetah.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 523
+trojan://CF68213490@star-dodo.rooster465.autos:443?sni=star-dodo.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 524
+trojan://CF68213490@star-hagfish.rooster465.autos:443?sni=star-hagfish.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 525
+trojan://CF68213490@star-moray.rooster465.autos:443?sni=star-moray.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 526
+trojan://CF68213490@steady-prawn.rooster465.autos:443?sni=steady-prawn.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 527
+trojan://CF68213490@summary-firefly.rooster465.autos:443?sni=summary-firefly.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 528
+trojan://CF68213490@summary-lemming.rooster465.autos:443?sni=summary-lemming.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 529
+trojan://CF68213490@thankful-mustang.rooster465.autos:443?sni=thankful-mustang.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 530
+trojan://CF68213490@tight-gator.rooster465.autos:443?sni=tight-gator.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 531
+trojan://CF68213490@together-impala.rooster465.autos:443?sni=together-impala.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 532
+trojan://CF68213490@tolerant-rattler.rooster465.autos:443?sni=tolerant-rattler.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 533
+trojan://CF68213490@tolerant-stag.rooster465.autos:443?sni=tolerant-stag.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 534
+trojan://CF68213490@ultimate-jaguar.rooster465.autos:443?sni=ultimate-jaguar.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 535
+trojan://CF68213490@united-molly.rooster465.autos:443?sni=united-molly.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 536
+trojan://CF68213490@upright-rhino.rooster465.autos:443?sni=upright-rhino.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 537
+trojan://CF68213490@upward-yak.rooster465.autos:443?sni=upward-yak.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 538
+trojan://CF68213490@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 539
+trojan://CF68213490@wealthy-gobbler.rooster465.autos:443?sni=wealthy-gobbler.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 540
+trojan://CF68213490@welcome-monitor.rooster465.autos:443?sni=welcome-monitor.rooster465.autos&type=tcp&fp=chrome#@vpnclashfa - 541
 trojan://CHhHZoXQCp@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=se.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=se.farxmode.ir#%24Free%20254%20%40Outline_Vpn
-trojan://CHhHZoXQCp@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=se.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=se.farxmode.ir#@vpnclashfa - 1141
-trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=%2F#🆔ar14n24b%20🔓%20TR-WS-N/A%20🇺🇸%20US%20down
-trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/#%F0%9F%87%BA%F0%9F%87%B8122579%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/#@vpnclashfa - 1142
-trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/#✅@AR14N24b
-trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@vpnclashfa - 1143
+trojan://CHhHZoXQCp@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=se.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=se.farxmode.ir#@vpnclashfa - 542
+trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/#%F0%9F%87%BA%F0%9F%87%B8122628%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini ➖➖➖➖➖➖➖➖@Hope_Net 🤞
+trojan://CMLiu@43.153.80.208:443?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/#@vpnclashfa - 543
+trojan://ComYEI7fQv@51.68.215.55:443?security=tls&sni=uk-04.allhubb.info&type=ws&path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&fp=chrome&alpn=http%2F1.1#@vpnclashfa - 544
+trojan://ComYEI7fQv@51.68.215.55:443?security=tls&sni=uk-04.allhubb.info&type=ws&path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&fp=chrome&alpn=http%2F1.1#✅@AR14N24b
+trojan://ComYEI7fQv@51.68.215.55:443?security=tls&sni=uk-04.allhubb.info&type=ws&path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&fp=chrome&alpn=http%2F1.1#🆔ar14n24b%20🔒%20TR-WS-N/A%20❔%20XX%20down
+trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@vpnclashfa - 545
 trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#Free%2095%20%40Outline_Vpn
-trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#RELAY🚩 | api24-normal.tiktokv.com.cyylr.eu.cc-443 | 12.13ms
+trojan://Config0plus@45.130.125.0:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#RELAY🚩 | api24-normal.tiktokv.com.cyylr.eu.cc-443 | 15.47ms
 trojan://Config0plus@45.130.125.0:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi&allowInsecure=0#🔒 TR-WS-TLS 🇸🇨 SC-45.130.125.0:443
 trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?security=tls&sni=ads.x5.ru#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20-%20Haugesund%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://DxNI-zvmj7Q5WKdtu=X8Mn9+H@149.104.104.231:14351?security=tls&sni=web.max.ru&allowInsecure=true#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20-%20Karachi%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://E-Graphic@104.17.147.22:443?security=tls&type=ws&sni=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev&path=%2Fproxyip%3D62.3.12.185&host=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev#RELAY🚩 | gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev-443 | 75.16ms
-trojan://E-Graphic@104.17.147.22:443?security=tls&type=ws&sni=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev&path=/proxyip=62.3.12.185&host=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev#%F0%9F%87%A8%F0%9F%87%A6121615%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-trojan://E-Graphic@104.17.147.22:443?security=tls&type=ws&sni=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev&path=/proxyip=62.3.12.185&host=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://E-Graphic@104.17.147.22:443?security=tls&sni=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev&type=ws&host=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev&path=%2Fproxyip%3D62.3.12.185&fp=firefox&alpn=http/1.1#@vpnclashfa - 546
+trojan://E-Graphic@104.17.147.22:443?security=tls&type=ws&sni=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev&path=%2Fproxyip%3D62.3.12.185&host=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev#RELAY🚩 | gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev-443 | 75.41ms
 trojan://E-Graphic@104.17.147.22:443?security=tls&type=ws&sni=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev&path=/proxyip=62.3.12.185&host=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev#@VIProxys
-trojan://E-Graphic@104.17.147.22:443?security=tls&type=ws&sni=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev&path=/proxyip=62.3.12.185&host=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev#@vpnclashfa - 1144
-trojan://EoMqcUMnnJ-SUctJ9LGXxQ@104.16.72.251:2082?type=ws&host=web.doctor-alan-cloud.ir&path=%2Ft-ws#@vpnclashfa - 1145
+trojan://E-Graphic@104.17.147.22:443?security=tls&type=ws&sni=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev&path=/proxyip=62.3.12.185&host=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev#@vpnclashfa - 547
+trojan://EoMqcUMnnJ-SUctJ9LGXxQ@104.16.72.251:2082?type=ws&host=web.doctor-alan-cloud.ir&path=%2Ft-ws#@VIProxys
+trojan://EoMqcUMnnJ-SUctJ9LGXxQ@104.16.72.251:2082?type=ws&host=web.doctor-alan-cloud.ir&path=%2Ft-ws#@vpnclashfa - 548
+trojan://EoMqcUMnnJ-SUctJ9LGXxQ@104.16.72.251:2082?type=ws&host=web.doctor-alan-cloud.ir&path=%2Ft-ws#RELAY🚩 | web.doctor-alan-cloud.ir-2082 | 421.46ms
 trojan://F6xOQXz=rp7yeiNV@134.195.197.69:19579?security=tls&sni=goodmorning.dancingbrick.click#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Vancouver%20%F0%9F%8C%8E%20TR-TCP-NA%204%E2%83%A3
 trojan://F6xOQXz=rp7yeiNV@134.195.197.69:19579?security=tls&sni=goodmorning.dancingbrick.click#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Vancouver%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://F6xOQXz=rp7yeiNV@134.195.197.69:19579?security=tls&sni=goodmorning.dancingbrick.click&allowInsecure=true#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Vancouver%20%F0%9F%8C%8E%20TR-TCP-NA%204%E2%83%A3
 trojan://F6xOQXz=rp7yeiNV@134.195.197.69:19579?security=tls&sni=goodmorning.dancingbrick.click&allowInsecure=true#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Vancouver%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
+trojan://FC60532879@109.61.127.115:443?sni=positive-bear.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇰🇷 KR-109.61.127.115:443
 trojan://FC60532879@109.61.127.145:443?security=tls&sni=outgoing-ladybird.rooster465.autos#🔒 TR-TCP-TLS 🇰🇷 KR-109.61.127.145:443
+trojan://FC60532879@109.61.127.151:443?sni=picked-hippo.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇰🇷 KR-109.61.127.151:443
+trojan://FC60532879@109.61.127.38:443?sni=premium-lab.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇰🇷 KR-109.61.127.38:443
+trojan://FC60532879@109.61.127.43:443?sni=shining-haddock.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇰🇷 KR-109.61.127.43:443
+trojan://FC60532879@109.61.127.79:443?sni=fun-seagull.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇰🇷 KR-109.61.127.79:443
+trojan://FC60532879@13.39.195.215:443?sni=tough-pigeon.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇫🇷 FR-13.39.195.215:443
+trojan://FC60532879@15.237.250.154:443?sni=chief-cricket.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇫🇷 FR-15.237.250.154:443
+trojan://FC60532879@185.14.47.230:443?sni=modest-foal.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇭🇰 HK-185.14.47.230:443
+trojan://FC60532879@185.14.47.86:443?sni=electric-sturgeon.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇭🇰 HK-185.14.47.86:443
+trojan://FC60532879@31.223.184.149:443?sni=proud-honeybee.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇯🇵 JP-31.223.184.149:443
 trojan://FC60532879@31.223.184.153:443?security=tls&sni=rested-pheasant.rooster465.autos#🔒 TR-TCP-TLS 🇯🇵 JP-31.223.184.153:443
+trojan://FC60532879@31.223.184.218:443?sni=intense-wildcat.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇯🇵 JP-31.223.184.218:443
 trojan://FC60532879@31.223.184.249:443?security=tls&sni=wise-longhorn.rooster465.autos#🔒 TR-TCP-TLS 🇯🇵 JP-31.223.184.249:443
+trojan://FC60532879@45.135.228.120:443?sni=touching-ostrich.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇸🇬 SG-45.135.228.120:443
+trojan://FC60532879@45.135.228.223:443?sni=open-caribou.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇸🇬 SG-45.135.228.223:443
 trojan://FC60532879@45.135.228.59:443?security=tls&sni=true-alpaca.rooster465.autos#🔒 TR-TCP-TLS 🇸🇬 SG-45.135.228.59:443
 trojan://FC60532879@45.135.228.9:443?security=tls&sni=actual-chicken.rooster465.autos#🔒 TR-TCP-TLS 🇸🇬 SG-45.135.228.9:443
+trojan://FC60532879@62.112.222.200:443?sni=helped-buck.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.200:443
 trojan://FC60532879@81.28.13.103:443?security=tls&sni=faithful-panther.rooster465.autos#🔒 TR-TCP-TLS 🇸🇬 SG-81.28.13.103:443
 trojan://FC60532879@81.28.13.126:443?sni=resolved-gelding.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-81.28.13.126:443
+trojan://FC60532879@81.28.13.148:443?sni=needed-gelding.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇸🇬 SG-81.28.13.148:443
 trojan://FC60532879@81.28.13.211:443?allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-81.28.13.211:443
+trojan://FC60532879@82.117.225.165:443?sni=fleet-hawk.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇦🇺 AU-82.117.225.165:443
+trojan://FC60532879@82.117.225.20:443?sni=grown-rhino.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇦🇺 AU-82.117.225.20:443
 trojan://FC60532879@82.117.225.246:443?security=tls&sni=welcome-labrador.rooster465.autos#🔒 TR-TCP-TLS 🇦🇺 AU-82.117.225.246:443
+trojan://FC60532879@82.117.226.126:443?sni=great-wasp.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.126:443
 trojan://FC60532879@82.117.226.173:443?allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.173:443
 trojan://FC60532879@82.117.226.224:443?security=tls&sni=exotic-chicken.rooster465.autos#🔒 TR-TCP-TLS 🇰🇷 KR-82.117.226.224:443
+trojan://FC60532879@82.117.226.249:443?sni=stirred-sunbeam.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.249:443
 trojan://FC60532879@82.117.226.40:443?security=tls&sni=classic-pug.rooster465.autos#🔒 TR-TCP-TLS 🇰🇷 KR-82.117.226.40:443
-trojan://FC60532879@actual-chicken.rooster465.autos:443?security=tls&sni=actual-chicken.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.9-0150
-trojan://FC60532879@actual-chicken.rooster465.autos:443?security=tls&sni=actual-chicken.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.9-0160
+trojan://FC60532879@82.117.226.41:443?sni=darling-emu.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.41:443
+trojan://FC60532879@82.117.226.45:443?sni=right-seahorse.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.45:443
+trojan://FC60532879@82.117.226.47:443?sni=growing-tuna.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.47:443
+trojan://FC60532879@91.199.84.109:443?sni=renewing-ewe.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.109:443
+trojan://FC60532879@91.199.84.224:443?sni=pretty-vervet.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.224:443
+trojan://FC60532879@91.199.84.34:443?sni=wealthy-loon.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.34:443
+trojan://FC60532879@91.199.84.86:443?sni=dynamic-grubworm.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.86:443
+trojan://FC60532879@91.243.81.18:443?sni=bright-quagga.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇸🇬 SG-91.243.81.18:443
+trojan://FC60532879@actual-chicken.rooster465.autos:443?security=tls&sni=actual-chicken.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.9-0162
+trojan://FC60532879@actual-chicken.rooster465.autos:443?security=tls&sni=actual-chicken.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.9-0171
 trojan://FC60532879@actual-chicken.rooster465.autos:443?security=tls&sni=actual-chicken.rooster465.autos#🇸🇬[openproxylist.com] trojan-SG
-trojan://FC60532879@classic-pug.rooster465.autos:443?security=tls&sni=classic-pug.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.40-0164
-trojan://FC60532879@classic-pug.rooster465.autos:443?security=tls&sni=classic-pug.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.40-0174
+trojan://FC60532879@classic-pug.rooster465.autos:443?security=tls&sni=classic-pug.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.40-0132
+trojan://FC60532879@classic-pug.rooster465.autos:443?security=tls&sni=classic-pug.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.40-0200
 trojan://FC60532879@classic-pug.rooster465.autos:443?security=tls&sni=classic-pug.rooster465.autos#🇰🇷[openproxylist.com] trojan-KR
-trojan://FC60532879@exotic-chicken.rooster465.autos:443?security=tls&sni=exotic-chicken.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.224-0143
-trojan://FC60532879@exotic-chicken.rooster465.autos:443?security=tls&sni=exotic-chicken.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.224-0188
+trojan://FC60532879@eternal-swift.rooster465.autos:443?allowInsecure=0&sni=eternal-swift.rooster465.autos#%F0%9F%87%AD%F0%9F%87%BA%20%E5%8C%88%E7%89%99%E5%88%A9%20011
+trojan://FC60532879@exotic-chicken.rooster465.autos:443?security=tls&sni=exotic-chicken.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.224-0136
+trojan://FC60532879@exotic-chicken.rooster465.autos:443?security=tls&sni=exotic-chicken.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.224-0186
 trojan://FC60532879@exotic-chicken.rooster465.autos:443?security=tls&sni=exotic-chicken.rooster465.autos#🇰🇷[openproxylist.com] trojan-KR
-trojan://FC60532879@faithful-panther.rooster465.autos:443?security=tls&sni=faithful-panther.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.103-0160
-trojan://FC60532879@faithful-panther.rooster465.autos:443?security=tls&sni=faithful-panther.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.103-0197
+trojan://FC60532879@faithful-panther.rooster465.autos:443?allowInsecure=0&sni=faithful-panther.rooster465.autos#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20014
+trojan://FC60532879@faithful-panther.rooster465.autos:443?security=tls&sni=faithful-panther.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.103-0158
+trojan://FC60532879@faithful-panther.rooster465.autos:443?security=tls&sni=faithful-panther.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.103-0176
 trojan://FC60532879@faithful-panther.rooster465.autos:443?security=tls&sni=faithful-panther.rooster465.autos#🇸🇬[openproxylist.com] trojan-SG
-trojan://FC60532879@neat-quail.rooster465.autos:443?allowInsecure=1#@vpnclashfa - 1146
-trojan://FC60532879@neat-quail.rooster465.autos:443?allowInsecure=1#SG🇸🇬 | neat-quail.rooster465.autos-443 | 222.61ms
-trojan://FC60532879@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-109.61.127.145-0150
-trojan://FC60532879@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-109.61.127.145-0175
+trojan://FC60532879@fleet-hawk.rooster465.autos:443?allowInsecure=0&sni=fleet-hawk.rooster465.autos#%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%20002
+trojan://FC60532879@flowing-gobbler.rooster465.autos:443?allowInsecure=0&sni=flowing-gobbler.rooster465.autos#%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%20001
+trojan://FC60532879@frank-piranha.rooster465.autos:443?allowInsecure=0&sni=frank-piranha.rooster465.autos#%E5%85%B6%E4%BB%96%20013
+trojan://FC60532879@helpful-possum.rooster465.autos:443?allowInsecure=0&sni=helpful-possum.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20011
+trojan://FC60532879@included-hedgehog.rooster465.autos:443?allowInsecure=0&sni=included-hedgehog.rooster465.autos#%E5%85%B6%E4%BB%96%20012
+trojan://FC60532879@intense-wildcat.rooster465.autos:443?allowInsecure=0&sni=intense-wildcat.rooster465.autos#%E5%85%B6%E4%BB%96%20014
+trojan://FC60532879@kind-unicorn.rooster465.autos:443?allowInsecure=0&sni=kind-unicorn.rooster465.autos#%F0%9F%87%AD%F0%9F%87%BA%20%E5%8C%88%E7%89%99%E5%88%A9%20010
+trojan://FC60532879@magnetic-woodcock.rooster465.autos:443?allowInsecure=0&sni=magnetic-woodcock.rooster465.autos#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20016
+trojan://FC60532879@neat-quail.rooster465.autos:443?allowInsecure=1#@vpnclashfa - 549
+trojan://FC60532879@neat-quail.rooster465.autos:443?allowInsecure=1#SG🇸🇬 | neat-quail.rooster465.autos-443 | 236.56ms
+trojan://FC60532879@needed-gelding.rooster465.autos:443?allowInsecure=0&sni=needed-gelding.rooster465.autos#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20015
+trojan://FC60532879@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-109.61.127.145-0199
+trojan://FC60532879@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-109.61.127.145-0210
 trojan://FC60532879@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#🇰🇷[openproxylist.com] trojan-KR
-trojan://FC60532879@powerful-opossum.rooster465.autos:443?allowInsecure=1#@vpnclashfa - 1147
-trojan://FC60532879@powerful-opossum.rooster465.autos:443?allowInsecure=1#KR🇰🇷 | powerful-opossum.rooster465.autos-443 | 192.68ms
-trojan://FC60532879@resolved-gelding.rooster465.autos:443?allowInsecure=0&sni=resolved-gelding.rooster465.autos#@vpnclashfa - 1148
-trojan://FC60532879@resolved-gelding.rooster465.autos:443?allowInsecure=0&sni=resolved-gelding.rooster465.autos#SG🇸🇬 | resolved-gelding.rooster465.autos-443 | 230.01ms
-trojan://FC60532879@resolved-gelding.rooster465.autos:443?security=tls&sni=resolved-gelding.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.126-0141
-trojan://FC60532879@resolved-gelding.rooster465.autos:443?security=tls&sni=resolved-gelding.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.126-0156
-trojan://FC60532879@resolved-gelding.rooster465.autos:443?security=tls&sni=resolved-gelding.rooster465.autos#🇸🇬[openproxylist.com] trojan-SG
-trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.153-0173
-trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.153-0186
-trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://FC60532879@true-alpaca.rooster465.autos:443?security=tls&sni=true-alpaca.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.59-0144
-trojan://FC60532879@true-alpaca.rooster465.autos:443?security=tls&sni=true-alpaca.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.59-0161
+trojan://FC60532879@positive-bear.rooster465.autos:443?allowInsecure=0&sni=positive-bear.rooster465.autos#%F0%9F%87%AD%F0%9F%87%BA%20%E5%8C%88%E7%89%99%E5%88%A9%20008
+trojan://FC60532879@powerful-opossum.rooster465.autos:443?allowInsecure=1#@vpnclashfa - 550
+trojan://FC60532879@powerful-opossum.rooster465.autos:443?allowInsecure=1#KR🇰🇷 | powerful-opossum.rooster465.autos-443 | 198.18ms
+trojan://FC60532879@premium-lab.rooster465.autos:443?allowInsecure=0&sni=premium-lab.rooster465.autos#%F0%9F%87%AD%F0%9F%87%BA%20%E5%8C%88%E7%89%99%E5%88%A9%20009
+trojan://FC60532879@resolved-gelding.rooster465.autos:443?allowInsecure=0&sni=resolved-gelding.rooster465.autos#@vpnclashfa - 551
+trojan://FC60532879@resolved-gelding.rooster465.autos:443?allowInsecure=0&sni=resolved-gelding.rooster465.autos#SG🇸🇬 | resolved-gelding.rooster465.autos-443 | 352.12ms
+trojan://FC60532879@resolved-gelding.rooster465.autos:443?security=tls&sni=resolved-gelding.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.126-0167
+trojan://FC60532879@resolved-gelding.rooster465.autos:443?security=tls&sni=resolved-gelding.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.126-0198
+trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.153-0201
+trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.153-0218
+trojan://FC60532879@true-alpaca.rooster465.autos:443?security=tls&sni=true-alpaca.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.59-0150
+trojan://FC60532879@true-alpaca.rooster465.autos:443?security=tls&sni=true-alpaca.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.59-0174
 trojan://FC60532879@true-alpaca.rooster465.autos:443?security=tls&sni=true-alpaca.rooster465.autos#🇸🇬[openproxylist.com] trojan-SG
-trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&sni=welcome-labrador.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.246-0142
-trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&sni=welcome-labrador.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.246-0161
+trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&sni=welcome-labrador.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.246-0129
+trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&sni=welcome-labrador.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.246-0170
 trojan://FC60532879@welcome-labrador.rooster465.autos:443?security=tls&sni=welcome-labrador.rooster465.autos#🇦🇺[openproxylist.com] trojan-AU
-trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.249-0166
-trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.249-0194
-trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://FNWzI4OwPTNgAFZUUUFjx19m5YfLo3qNXt07tCQ3lZw%3D@65.109.219.124:41393?security=none&headerType=none&type=tcp#@vpnclashfa - 1149
+trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.249-0197
+trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.249-0216
+trojan://FNWzI4OwPTNgAFZUUUFjx19m5YfLo3qNXt07tCQ3lZw%3D@65.109.219.124:41393?security=none&headerType=none&type=tcp#@vpnclashfa - 552
 trojan://FNWzI4OwPTNgAFZUUUFjx19m5YfLo3qNXt07tCQ3lZw%3D@65.109.219.124:41393?security=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
-trojan://G2qM_GHnAEpbuIp1mcZh3mGvVn3+rHrwNe@172.232.194.147:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=172.232.194.147#@vpnclashfa - 1150
-trojan://H8Gwt1EIq-jxr%3Dg%23@139.84.233.136:15813/?type=tcp&security=tls&sni=luckyday.silentrocket.click#@vpnclashfa - 1151
-trojan://HHyBuQthOg@45.130.125.2:443?type=ws&security=tls&path=%2Fdb&host=sj.farxmode.ir&sni=sj.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#@vpnclashfa - 1152
-trojan://HW85960347@185.14.47.195:443?allowInsecure=0&sni=eminent-lamb.rooster465.autos#@vpnclashfa - 1153
-trojan://HW85960347@185.14.47.195:443?allowInsecure=0&sni=eminent-lamb.rooster465.autos#HK🇭🇰 | eminent-lamb.rooster465.autos-443 | 235.67ms
-trojan://HW85960347@185.14.47.195:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0192
-trojan://HW85960347@185.14.47.195:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0196
-trojan://HW85960347@185.14.47.195:443?security=tls&sni=eminent-lamb.rooster465.autos#🔒 TR-TCP-TLS 🇭🇰 HK-185.14.47.195:443
-trojan://HW85960347@eminent-lamb.rooster465.autos:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0194
-trojan://HW85960347@eminent-lamb.rooster465.autos:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0209
+trojan://Fvv4Bz926a@104.21.46.33:80?security=none&type=ws&host=admin.irayanconfig.ir#@vpnclashfa - 553
+trojan://Fvv4Bz926a@104.21.46.33:80?security=none&type=ws&host=admin.irayanconfig.ir#✅@AR14N24b
+trojan://Fvv4Bz926a@104.21.46.33:80?security=none&type=ws&host=admin.irayanconfig.ir#🆔ar14n24b%20🔓%20TR-WS-N/A%20❔%20XX%201ms
+trojan://G2qM_GHnAEpbuIp1mcZh3mGvVn3+rHrwNe@172.232.194.147:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=172.232.194.147#@vpnclashfa - 554
+trojan://H8Gwt1EIq-jxr%3Dg%23@139.84.233.136:15813/?type=tcp&security=tls&sni=luckyday.silentrocket.click#@vpnclashfa - 555
+trojan://HHyBuQthOg@45.130.125.2:443?type=ws&security=tls&path=%2Fdb&host=sj.farxmode.ir&sni=sj.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#@vpnclashfa - 556
+trojan://HK78346019@harmless-lab.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC_8
+trojan://HK78346019@suitable-feline.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0_%E9%A6%99%E6%B8%AF_64
+trojan://HW85960347@185.14.47.195:443?allowInsecure=0&sni=eminent-lamb.rooster465.autos#HK🇭🇰 | eminent-lamb.rooster465.autos-443 | 232.91ms
+trojan://HW85960347@185.14.47.195:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0203
+trojan://HW85960347@185.14.47.195:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0213
+trojan://HW85960347@185.14.47.195:443?sni=eminent-lamb.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-185.14.47.195:443
+trojan://HW85960347@eminent-lamb.rooster465.autos:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0205
+trojan://HW85960347@eminent-lamb.rooster465.autos:443?security=tls&sni=eminent-lamb.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.195-0217
+trojan://Htbm5NChh4@136.244.101.16:22328?security=tls&headerType=http&type=tcp&sni=ne.atrinshops.ir#@Hope_Net-join-us-on-Teleg
+trojan://Htbm5NChh4@136.244.101.16:22328?security=tls&headerType=http&type=tcp&sni=ne.atrinshops.ir#@vpnclashfa - 557
 trojan://IH4t6apt3J28-5LWuiLr1slytzxtIyac@ho.apexi.shop:443?security=reality&pbk=Gc4NrOSiRJFM9igR62B2_m88W5FGFEqb_qgN1Jt5JGQ&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=4cb5c811724634aa#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-trojan://IH4t6apt3J28-5LWuiLr1slytzxtIyac@ho.apexi.shop:443?security=reality&pbk=Gc4NrOSiRJFM9igR62B2_m88W5FGFEqb_qgN1Jt5JGQ&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=4cb5c811724634aa#%F0%9F%87%B0%F0%9F%87%BF121996%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
 trojan://IH4t6apt3J28-5LWuiLr1slytzxtIyac@ho.apexi.shop:443?security=reality&pbk=Gc4NrOSiRJFM9igR62B2_m88W5FGFEqb_qgN1Jt5JGQ&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=4cb5c811724634aa#@meliproxyy
-trojan://IH4t6apt3J28-5LWuiLr1slytzxtIyac@ho.apexi.shop:443?security=reality&pbk=Gc4NrOSiRJFM9igR62B2_m88W5FGFEqb_qgN1Jt5JGQ&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=4cb5c811724634aa#@vpnclashfa - 1154
-trojan://IH4t6apt3J28-5LWuiLr1slytzxtIyac@ho.apexi.shop:443?security=reality&type=tcp&headerType=none&sni=www.icloud.com&fp=chrome&pbk=Gc4NrOSiRJFM9igR62B2_m88W5FGFEqb_qgN1Jt5JGQ&sid=4cb5c811724634aa&pqv=yBsDQHZEo5uNuUfCiYPnD5-qljlaWOxN8yEmMRPQE5L98VFFmUhR9sDqReO7TN81_Zt_D0AN_UM14U9SFSD5wWtJl1HRcdMxUD0WkU43ISCxBgbLVQYdPTRgy4mTHXNCdjRQXdWn8N1XoOKzzYkbWi9gG42vcgn-LGhwNHwDZeC5ALw4uMnN-9LBMSh5irLaxvA6fuiUM8Dby3IcmpG71jIa9-nFZDMsmi2OtoB22v6bOG87Az9urgghvRFawPFGLuniv06fAzPwm_FigoLtBukWVm7p5pE6r6bevKEtcvkpa3RvQ78aXzAGkWR2Mk6kOWwOkFWVqPvYE88Aaxca07M0WGkzJZOhjcLDuDmsRvF7MMiTZLEHO-y-0CI88QG6n6hrhGVUwzlnGwhJFFsrF2u0_ROiXYYRcnbQV5xixE6cBE9VE0FT747Iu9-e34X8HUZxRvqAN7ivnpXOQrR2n3eOMkBddlYOXCHV_CN1smxqHBdVaRxoP0NT3LqQrG3BTQu9YBxfiCRloL9sSRXdDVAKKkgXvOjbk4F5_QRSBFFGOyZaQmS-miSxlaJMTlJRTGx5xGtvnKCvouQ6e0MRXXpPu_O89M-D-CMJ2P45EBTZODzruBOtspsMxbh64ZgI_uwg8UR5pqRBK2UsGcOdU6P8L3VXhjQqdMeSGIkl7szR8TDWIsFrFgZOoWkyy33XZqr9EQHArccHWL5lrD37YjSrv_RrtwyTyUzT6JvqQfmTU1i4QbuJ_m_j67J0xA2YzffYAFXxwLbJ28-1Mx1ItxKn1703Y5xBa_vrmm0Iz5PwitTsk4a6Sn9FkXRjazg25Rl98aDFZ16HSi9FStEda2_wCv-n_BlWCSulU2neKaS_xqwBuuEkRijBaYtFTuzvwndR_VhcliXXR8kEioRXSycMuBQqXpusCxECq424yD13m2WcN3NgO6W5PLlOe6BTUCxp_E9lOfS8g89kJfPqzk6Q2Z_xVQlWpr7i0DVmyDOEzYNGFepD_wnb6__7NJBVugqwvicjb4Bc-pXstj7kWeEcfw7PV7KraKhhd4AUYi-15NP-14-tAP5SEe-w6l4bbQ-V4F3SL0PVLm_kFjV7HZ2SVx8st5roNrq1CvcM1Jy7DuA7bJQfegb86kgKCh4cbQZVqY_xDqz7e8JXhjEF-kLugbaC1YdbiXa1YPR4guq9Bslmlg5LKDrljCg0fU8RSKNx_6XLo2sB13h-yXsWKRjqfOpXiXxx-WZac_VGAk2f_vW6fv-qIXSAWLvuzN_JAm0kHYMaWJfPMS11OeGfNHCR9ghr7snKn9j6dfPujwZUM8ldBH1xAkHCqYHTPFVxDUbsUFwhnjeFl9jP-hSInS2eB2DGXyl7kUJL0PuIgPlAl2PqirUNqqQeRaPoNXSR2VTJ6OQECt--FhsWBTYqtb6mnDThLy90lr5eGjhHyLvZ2FEMQ-dDEmrOoB2w9zpEUteXa0r9nsvvN3dGBx7wy4N81GFAHuBvuBvtHB3R3WGTT125lD3v3yi64AhKGi5x6w2qJ-6UO617PsxY8V4bBVi9r8xuBD7nj5cOD9bvkRwuDc0oiWxa0H3Jv40Fo8UcTkXOjbpxOe7Q9KFwrkpJ2mhFS5XKfXngnCDIVCi9Y9b9T5PQfrivMkLnHRrZ8piaU44sIkKdU0R6xMiiTLJOdemoMENRLsaZ_F-pIMcM7I9f2zHdqs5NK-zEUcwS-GqZDakM_ZIa0OQ-3Pu4JD_mRhh1glauXzntzjaKVVg6hoAuNGBVzx7nrrnvNETBFKrSj110GzCee0Ahpt0ZU2go18eC2KbXwi2uTGXQDNeW31MHs_m3AAuFM5xlTE2EFwZgo9bLSOkgQwKVUIHfwkHwg0zmf2XiltRSQbM5p_TgDgxRMPJ7S3U_UbfyxCWG4avhdRYVi8REVlKNOdLJX9_JflBOgs8SLLNbBmGCMmauUIyr3VtKiPbwM0e-SAvhtDK3K9kQVq5LWilvKzV0Q94N2oyW6juUoEd2VGFuvM9Elq-2RGhym850WwkDeto37E_CcYg9tjjKM1hZlX7Bu6FKxXBwS7TZCXPJYcxsH4iHrJcMvj_MN-Rug65rMy8qOc9fogxwi9-_NwwWKZlYq3KOqsoCohOivGH8PlNhKJEbgUKbWTiVwQmvXtfMuG5LepYZDeesZpXteYBvTIrIoKMTNXUQ2R64779S2oeXfIV61YshwLUO1oX6-0FDN8kxN1SIDo_hLxWRIb7K81Z36Ohyghm8OQGz9a1wWAjkapjBMkR3MoZDD_9Jbv895hPe1m5Rj6dO-aBggCDpMH3rxt3lVDHuU3QTvIN0C28T3Ddr80lLEZhVU4BxGeY69jHpHz2LnFsyjIL7n4sLgqRIOxlB9B2L_r0E9kwpHucVxiihe998zDj3CcSPtbqdpt0gtBSm4k-AaCYcX5gWi4OLw6gNb1Ho30rbIrA_tIv7el_cfn0lptnuLF_lGBkrkjIbsMa6cXlId1WQWJauWz4A5zryhwD3QGVwke80tXE5FswyXlvT20Suk-LGD5yKxvWlnlSFYSgQulPcCUPCfvlRovrud-u-sGE7OSaldFV0TNVz5uE#@vpnclashfa - 1155
+trojan://IH4t6apt3J28-5LWuiLr1slytzxtIyac@ho.apexi.shop:443?security=reality&pbk=Gc4NrOSiRJFM9igR62B2_m88W5FGFEqb_qgN1Jt5JGQ&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=4cb5c811724634aa#@vpnclashfa - 558
+trojan://IH4t6apt3J28-5LWuiLr1slytzxtIyac@ho.apexi.shop:443?security=reality&pbk=Gc4NrOSiRJFM9igR62B2_m88W5FGFEqb_qgN1Jt5JGQ&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=4cb5c811724634aa#REALITY|US🇺🇸 | www.icloud.com-443 | 11.04ms
+trojan://IH4t6apt3J28-5LWuiLr1slytzxtIyac@ho.apexi.shop:443?security=reality&type=tcp&headerType=none&sni=www.icloud.com&fp=chrome&pbk=Gc4NrOSiRJFM9igR62B2_m88W5FGFEqb_qgN1Jt5JGQ&sid=4cb5c811724634aa&pqv=yBsDQHZEo5uNuUfCiYPnD5-qljlaWOxN8yEmMRPQE5L98VFFmUhR9sDqReO7TN81_Zt_D0AN_UM14U9SFSD5wWtJl1HRcdMxUD0WkU43ISCxBgbLVQYdPTRgy4mTHXNCdjRQXdWn8N1XoOKzzYkbWi9gG42vcgn-LGhwNHwDZeC5ALw4uMnN-9LBMSh5irLaxvA6fuiUM8Dby3IcmpG71jIa9-nFZDMsmi2OtoB22v6bOG87Az9urgghvRFawPFGLuniv06fAzPwm_FigoLtBukWVm7p5pE6r6bevKEtcvkpa3RvQ78aXzAGkWR2Mk6kOWwOkFWVqPvYE88Aaxca07M0WGkzJZOhjcLDuDmsRvF7MMiTZLEHO-y-0CI88QG6n6hrhGVUwzlnGwhJFFsrF2u0_ROiXYYRcnbQV5xixE6cBE9VE0FT747Iu9-e34X8HUZxRvqAN7ivnpXOQrR2n3eOMkBddlYOXCHV_CN1smxqHBdVaRxoP0NT3LqQrG3BTQu9YBxfiCRloL9sSRXdDVAKKkgXvOjbk4F5_QRSBFFGOyZaQmS-miSxlaJMTlJRTGx5xGtvnKCvouQ6e0MRXXpPu_O89M-D-CMJ2P45EBTZODzruBOtspsMxbh64ZgI_uwg8UR5pqRBK2UsGcOdU6P8L3VXhjQqdMeSGIkl7szR8TDWIsFrFgZOoWkyy33XZqr9EQHArccHWL5lrD37YjSrv_RrtwyTyUzT6JvqQfmTU1i4QbuJ_m_j67J0xA2YzffYAFXxwLbJ28-1Mx1ItxKn1703Y5xBa_vrmm0Iz5PwitTsk4a6Sn9FkXRjazg25Rl98aDFZ16HSi9FStEda2_wCv-n_BlWCSulU2neKaS_xqwBuuEkRijBaYtFTuzvwndR_VhcliXXR8kEioRXSycMuBQqXpusCxECq424yD13m2WcN3NgO6W5PLlOe6BTUCxp_E9lOfS8g89kJfPqzk6Q2Z_xVQlWpr7i0DVmyDOEzYNGFepD_wnb6__7NJBVugqwvicjb4Bc-pXstj7kWeEcfw7PV7KraKhhd4AUYi-15NP-14-tAP5SEe-w6l4bbQ-V4F3SL0PVLm_kFjV7HZ2SVx8st5roNrq1CvcM1Jy7DuA7bJQfegb86kgKCh4cbQZVqY_xDqz7e8JXhjEF-kLugbaC1YdbiXa1YPR4guq9Bslmlg5LKDrljCg0fU8RSKNx_6XLo2sB13h-yXsWKRjqfOpXiXxx-WZac_VGAk2f_vW6fv-qIXSAWLvuzN_JAm0kHYMaWJfPMS11OeGfNHCR9ghr7snKn9j6dfPujwZUM8ldBH1xAkHCqYHTPFVxDUbsUFwhnjeFl9jP-hSInS2eB2DGXyl7kUJL0PuIgPlAl2PqirUNqqQeRaPoNXSR2VTJ6OQECt--FhsWBTYqtb6mnDThLy90lr5eGjhHyLvZ2FEMQ-dDEmrOoB2w9zpEUteXa0r9nsvvN3dGBx7wy4N81GFAHuBvuBvtHB3R3WGTT125lD3v3yi64AhKGi5x6w2qJ-6UO617PsxY8V4bBVi9r8xuBD7nj5cOD9bvkRwuDc0oiWxa0H3Jv40Fo8UcTkXOjbpxOe7Q9KFwrkpJ2mhFS5XKfXngnCDIVCi9Y9b9T5PQfrivMkLnHRrZ8piaU44sIkKdU0R6xMiiTLJOdemoMENRLsaZ_F-pIMcM7I9f2zHdqs5NK-zEUcwS-GqZDakM_ZIa0OQ-3Pu4JD_mRhh1glauXzntzjaKVVg6hoAuNGBVzx7nrrnvNETBFKrSj110GzCee0Ahpt0ZU2go18eC2KbXwi2uTGXQDNeW31MHs_m3AAuFM5xlTE2EFwZgo9bLSOkgQwKVUIHfwkHwg0zmf2XiltRSQbM5p_TgDgxRMPJ7S3U_UbfyxCWG4avhdRYVi8REVlKNOdLJX9_JflBOgs8SLLNbBmGCMmauUIyr3VtKiPbwM0e-SAvhtDK3K9kQVq5LWilvKzV0Q94N2oyW6juUoEd2VGFuvM9Elq-2RGhym850WwkDeto37E_CcYg9tjjKM1hZlX7Bu6FKxXBwS7TZCXPJYcxsH4iHrJcMvj_MN-Rug65rMy8qOc9fogxwi9-_NwwWKZlYq3KOqsoCohOivGH8PlNhKJEbgUKbWTiVwQmvXtfMuG5LepYZDeesZpXteYBvTIrIoKMTNXUQ2R64779S2oeXfIV61YshwLUO1oX6-0FDN8kxN1SIDo_hLxWRIb7K81Z36Ohyghm8OQGz9a1wWAjkapjBMkR3MoZDD_9Jbv895hPe1m5Rj6dO-aBggCDpMH3rxt3lVDHuU3QTvIN0C28T3Ddr80lLEZhVU4BxGeY69jHpHz2LnFsyjIL7n4sLgqRIOxlB9B2L_r0E9kwpHucVxiihe998zDj3CcSPtbqdpt0gtBSm4k-AaCYcX5gWi4OLw6gNb1Ho30rbIrA_tIv7el_cfn0lptnuLF_lGBkrkjIbsMa6cXlId1WQWJauWz4A5zryhwD3QGVwke80tXE5FswyXlvT20Suk-LGD5yKxvWlnlSFYSgQulPcCUPCfvlRovrud-u-sGE7OSaldFV0TNVz5uE#REALITY|US🇺🇸 | www.icloud.com-443 | 107.61ms
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&type=tcp#%5BTrojan%2015%5D%20%40ResistalProxy
-trojan://IQ68037294@109.61.127.143:443?sni=steady-lemming.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-109.61.127.143:443
 trojan://IQ68037294@109.61.127.205:443?allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-109.61.127.205:443
 trojan://IQ68037294@109.61.127.24:443?sni=artistic-pigeon.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-109.61.127.24:443
 trojan://IQ68037294@109.61.127.28:443?allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-109.61.127.28:443
-trojan://IQ68037294@13.37.222.178:443?sni=correct-pony.rooster465.autos#@vpnclashfa - 1156
-trojan://IQ68037294@13.37.222.178:443?sni=correct-pony.rooster465.autos#FR🇫🇷 | correct-pony.rooster465.autos-443 | 143.55ms
-trojan://IQ68037294@13.37.222.178:443?sni=correct-pony.rooster465.autos#🔒 TR-TCP-NA 🇫🇷 FR-13.37.222.178:443
-trojan://IQ68037294@13.39.161.149:443?allowInsecure=1#🔒 TR-TCP-NA 🇫🇷 FR-13.39.161.149:443
+trojan://IQ68037294@13.37.222.178:443?#🔒 TR-TCP-NA 🇫🇷 FR-13.37.222.178:443
+trojan://IQ68037294@13.37.222.178:443?sni=correct-pony.rooster465.autos#@vpnclashfa - 559
+trojan://IQ68037294@13.37.222.178:443?sni=correct-pony.rooster465.autos#FR🇫🇷 | correct-pony.rooster465.autos-443 | 194.62ms
+trojan://IQ68037294@13.39.161.149:443?fp=chrome#🔒 TR-TCP-NA 🇫🇷 FR-13.39.161.149:443
 trojan://IQ68037294@13.39.89.72:443?sni=definite-giraffe.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇫🇷 FR-13.39.89.72:443
 trojan://IQ68037294@15.237.217.186:443?sni=desired-pony.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇫🇷 FR-15.237.217.186:443
-trojan://IQ68037294@185.244.208.64:443?security=tls&sni=desired-tahr.rooster465.autos#🔒 TR-TCP-TLS 🇭🇰 HK-185.244.208.64:443
-trojan://IQ68037294@185.244.208.64:443?sni=desired-tahr.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0121639%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-trojan://IQ68037294@185.244.208.64:443?sni=desired-tahr.rooster465.autos#@vpnclashfa - 1157
-trojan://IQ68037294@185.244.208.64:443?sni=desired-tahr.rooster465.autos#HK🇭🇰 | desired-tahr.rooster465.autos-443 | 229.45ms
-trojan://IQ68037294@193.169.239.162:443?allowInsecure=0&sni=distinct-ibex.rooster465.autos#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20001
-trojan://IQ68037294@193.169.239.162:443?fp=chrome&sni=distinct-ibex.rooster465.autos#@vpnclashfa - 1158
-trojan://IQ68037294@193.169.239.162:443?fp=chrome&sni=distinct-ibex.rooster465.autos#NL🇳🇱 | distinct-ibex.rooster465.autos-443 | 145.64ms
-trojan://IQ68037294@193.169.239.162:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=distinct-ibex.rooster465.autos#NL🇳🇱 | distinct-ibex.rooster465.autos-443 | 159.48ms
-trojan://IQ68037294@193.169.239.162:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=distinct-ibex.rooster465.autos#🇳🇱[openproxylist.com] trojan-NL
+trojan://IQ68037294@185.244.208.64:443?sni=desired-tahr.rooster465.autos#@vpnclashfa - 560
+trojan://IQ68037294@185.244.208.64:443?sni=desired-tahr.rooster465.autos#HK🇭🇰 | desired-tahr.rooster465.autos-443 | 230.04ms
+trojan://IQ68037294@193.169.239.162:443?fp=chrome&sni=distinct-ibex.rooster465.autos#@vpnclashfa - 561
+trojan://IQ68037294@193.169.239.162:443?fp=chrome&sni=distinct-ibex.rooster465.autos#NL🇳🇱 | distinct-ibex.rooster465.autos-443 | 165.74ms
+trojan://IQ68037294@193.169.239.162:443?security=tls&sni=distinct-ibex.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.162-0477
+trojan://IQ68037294@193.169.239.162:443?security=tls&sni=distinct-ibex.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.162-0488
+trojan://IQ68037294@193.169.239.162:443?security=tls&sni=distinct-ibex.rooster465.autos#🇳🇱[openproxylist.com] trojan-NL
 trojan://IQ68037294@193.169.239.162:443?sni=distinct-ibex.rooster465.autos&fp=chrome#🔒 TR-TCP-NA 🇳🇱 NL-193.169.239.162:443
 trojan://IQ68037294@31.223.184.109:443?allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-31.223.184.109:443
 trojan://IQ68037294@31.223.184.125:443?security=tls&sni=moral-buzzard.rooster465.autos#🔒 TR-TCP-TLS 🇯🇵 JP-31.223.184.125:443
 trojan://IQ68037294@31.223.184.164:443?sni=flexible-pony.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-31.223.184.164:443
-trojan://IQ68037294@35.180.10.212:443?sni=firm-warthog.rooster465.autos#@vpnclashfa - 1159
-trojan://IQ68037294@35.180.10.212:443?sni=firm-warthog.rooster465.autos#FR🇫🇷 | firm-warthog.rooster465.autos-443 | 161.46ms
+trojan://IQ68037294@35.180.10.212:443?sni=firm-warthog.rooster465.autos#@vpnclashfa - 562
+trojan://IQ68037294@35.180.10.212:443?sni=firm-warthog.rooster465.autos#FR🇫🇷 | firm-warthog.rooster465.autos-443 | 170.6ms
 trojan://IQ68037294@35.180.10.212:443?sni=firm-warthog.rooster465.autos#🔒 TR-TCP-NA 🇫🇷 FR-35.180.10.212:443
 trojan://IQ68037294@45.135.228.100:443?security=tls&sni=meet-doe.rooster465.autos#🔒 TR-TCP-TLS 🇸🇬 SG-45.135.228.100:443
 trojan://IQ68037294@45.135.228.169:443?security=tls&sni=fun-salmon.rooster465.autos#🔒 TR-TCP-TLS 🇸🇬 SG-45.135.228.169:443
-trojan://IQ68037294@45.135.228.169:443?sni=fun-salmon.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC122010%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-trojan://IQ68037294@45.135.228.169:443?sni=fun-salmon.rooster465.autos#@vpnclashfa - 1160
+trojan://IQ68037294@45.135.228.169:443?sni=fun-salmon.rooster465.autos#@vpnclashfa - 563
+trojan://IQ68037294@45.135.228.169:443?sni=fun-salmon.rooster465.autos#SG🇸🇬 | fun-salmon.rooster465.autos-443 | 210.88ms
 trojan://IQ68037294@45.135.228.17:443?allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-45.135.228.17:443
-trojan://IQ68037294@45.135.228.211:443?sni=endless-kiwi.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC121641%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-trojan://IQ68037294@45.135.228.211:443?sni=endless-kiwi.rooster465.autos#@vpnclashfa - 1161
-trojan://IQ68037294@45.135.228.211:443?sni=endless-kiwi.rooster465.autos#SG🇸🇬 | endless-kiwi.rooster465.autos-443 | 207.93ms
+trojan://IQ68037294@45.135.228.211:443?sni=endless-kiwi.rooster465.autos#@vpnclashfa - 564
+trojan://IQ68037294@45.135.228.211:443?sni=endless-kiwi.rooster465.autos#SG🇸🇬 | endless-kiwi.rooster465.autos-443 | 195.87ms
 trojan://IQ68037294@45.135.228.211:443?sni=endless-kiwi.rooster465.autos#🔒 TR-TCP-NA 🇸🇬 SG-45.135.228.211:443
 trojan://IQ68037294@45.135.228.21:443?sni=humane-hawk.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-45.135.228.21:443
 trojan://IQ68037294@45.135.228.220:443?security=tls&sni=neat-duck.rooster465.autos#🔒 TR-TCP-TLS 🇸🇬 SG-45.135.228.220:443
@@ -402,52 +537,44 @@ trojan://IQ68037294@45.135.228.28:443?security=tls&sni=pleased-sawfly.rooster465
 trojan://IQ68037294@45.135.228.63:443?security=tls&sni=fair-reptile.rooster465.autos#🔒 TR-TCP-TLS 🇸🇬 SG-45.135.228.63:443
 trojan://IQ68037294@45.135.228.68:443?allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-45.135.228.68:443
 trojan://IQ68037294@51.44.167.144:443?fp=chrome#🔒 TR-TCP-NA 🇫🇷 FR-51.44.167.144:443
-trojan://IQ68037294@62.112.222.127:443?fp=chrome&sni=polite-martin.rooster465.autos#@vpnclashfa - 1162
-trojan://IQ68037294@62.112.222.127:443?fp=chrome&sni=polite-martin.rooster465.autos#PL🇵🇱 | polite-martin.rooster465.autos-443 | 196.25ms
-trojan://IQ68037294@62.112.222.127:443?security=tls&sni=polite-martin.rooster465.autos#🔒 TR-TCP-TLS 🇵🇱 PL-62.112.222.127:443
-trojan://IQ68037294@62.112.222.145:443?fp=chrome&sni=patient-gannet.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1121646%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-trojan://IQ68037294@62.112.222.145:443?fp=chrome&sni=patient-gannet.rooster465.autos#@vpnclashfa - 1163
-trojan://IQ68037294@62.112.222.145:443?fp=chrome&sni=patient-gannet.rooster465.autos#PL🇵🇱 | patient-gannet.rooster465.autos-443 | 187.99ms
-trojan://IQ68037294@62.112.222.145:443?sni=patient-gannet.rooster465.autos&fp=chrome#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.145:443
-trojan://IQ68037294@62.112.222.200:443?fp=chrome&sni=helped-buck.rooster465.autos#@vpnclashfa - 1164
-trojan://IQ68037294@62.112.222.200:443?fp=chrome&sni=helped-buck.rooster465.autos#PL🇵🇱 | helped-buck.rooster465.autos-443 | 192.96ms
-trojan://IQ68037294@62.112.222.200:443?sni=helped-buck.rooster465.autos&fp=chrome#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.200:443
-trojan://IQ68037294@62.112.222.236:443?fp=chrome&sni=eternal-swift.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1121642%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-trojan://IQ68037294@62.112.222.236:443?fp=chrome&sni=eternal-swift.rooster465.autos#@vpnclashfa - 1165
-trojan://IQ68037294@62.112.222.236:443?fp=chrome&sni=eternal-swift.rooster465.autos#PL🇵🇱 | eternal-swift.rooster465.autos-443 | 198.95ms
-trojan://IQ68037294@62.112.222.236:443?sni=eternal-swift.rooster465.autos&fp=chrome#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.236:443
-trojan://IQ68037294@62.112.222.27:443?fp=chrome&sni=optimal-urchin.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1121643%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-trojan://IQ68037294@62.112.222.27:443?fp=chrome&sni=optimal-urchin.rooster465.autos#@vpnclashfa - 1166
-trojan://IQ68037294@62.112.222.27:443?fp=chrome&sni=optimal-urchin.rooster465.autos#PL🇵🇱 | optimal-urchin.rooster465.autos-443 | 184.12ms
-trojan://IQ68037294@62.112.222.27:443?sni=optimal-urchin.rooster465.autos&fp=chrome#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.27:443
+trojan://IQ68037294@62.112.222.127:443?fp=chrome&sni=polite-martin.rooster465.autos#@vpnclashfa - 565
+trojan://IQ68037294@62.112.222.127:443?fp=chrome&sni=polite-martin.rooster465.autos#PL🇵🇱 | polite-martin.rooster465.autos-443 | 206.16ms
+trojan://IQ68037294@62.112.222.127:443?sni=polite-martin.rooster465.autos&fp=chrome#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.127:443
+trojan://IQ68037294@62.112.222.145:443?fp=chrome&sni=patient-gannet.rooster465.autos#@vpnclashfa - 566
+trojan://IQ68037294@62.112.222.145:443?fp=chrome&sni=patient-gannet.rooster465.autos#PL🇵🇱 | patient-gannet.rooster465.autos-443 | 184.53ms
+trojan://IQ68037294@62.112.222.145:443?security=tls&sni=patient-gannet.rooster465.autos#🔒 TR-TCP-TLS 🇵🇱 PL-62.112.222.145:443
+trojan://IQ68037294@62.112.222.200:443?fp=chrome&sni=helped-buck.rooster465.autos#@vpnclashfa - 567
+trojan://IQ68037294@62.112.222.200:443?fp=chrome&sni=helped-buck.rooster465.autos#PL🇵🇱 | helped-buck.rooster465.autos-443 | 195.3ms
+trojan://IQ68037294@62.112.222.236:443?fp=chrome&sni=eternal-swift.rooster465.autos#@vpnclashfa - 568
+trojan://IQ68037294@62.112.222.236:443?fp=chrome&sni=eternal-swift.rooster465.autos#PL🇵🇱 | eternal-swift.rooster465.autos-443 | 201.11ms
+trojan://IQ68037294@62.112.222.236:443?security=tls&sni=eternal-swift.rooster465.autos#🔒 TR-TCP-TLS 🇵🇱 PL-62.112.222.236:443
+trojan://IQ68037294@62.112.222.27:443?fp=chrome&sni=optimal-urchin.rooster465.autos#@vpnclashfa - 569
+trojan://IQ68037294@62.112.222.27:443?fp=chrome&sni=optimal-urchin.rooster465.autos#PL🇵🇱 | optimal-urchin.rooster465.autos-443 | 178.69ms
+trojan://IQ68037294@62.112.222.27:443?security=tls&sni=optimal-urchin.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇵🇱 PL-62.112.222.27:443
 trojan://IQ68037294@62.112.222.39:443?sni=sensible-haddock.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.39:443
-trojan://IQ68037294@62.112.222.60:443?sni=dear-ferret.rooster465.autos#@vpnclashfa - 1167
-trojan://IQ68037294@62.112.222.60:443?sni=dear-ferret.rooster465.autos#PL🇵🇱 | dear-ferret.rooster465.autos-443 | 173.65ms
-trojan://IQ68037294@62.112.222.60:443?sni=dear-ferret.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.60:443
+trojan://IQ68037294@62.112.222.60:443?sni=dear-ferret.rooster465.autos#@vpnclashfa - 570
+trojan://IQ68037294@62.112.222.60:443?sni=dear-ferret.rooster465.autos#PL🇵🇱 | dear-ferret.rooster465.autos-443 | 186ms
+trojan://IQ68037294@62.112.222.60:443?sni=dear-ferret.rooster465.autos#🔒 TR-TCP-NA 🇵🇱 PL-62.112.222.60:443
 trojan://IQ68037294@79.133.126.108:443?fp=chrome#🔒 TR-TCP-NA 🇳🇱 NL-79.133.126.108:443
 trojan://IQ68037294@81.28.13.159:443?allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-81.28.13.159:443
 trojan://IQ68037294@81.28.13.225:443?security=tls&sni=open-eel.rooster465.autos#🔒 TR-TCP-TLS 🇸🇬 SG-81.28.13.225:443
 trojan://IQ68037294@81.28.13.48:443?allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-81.28.13.48:443
 trojan://IQ68037294@81.28.13.68:443?sni=pet-albacore.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-81.28.13.68:443
-trojan://IQ68037294@81.28.13.9:443?sni=prepared-turkey.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC121649%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-trojan://IQ68037294@81.28.13.9:443?sni=prepared-turkey.rooster465.autos#@vpnclashfa - 1168
-trojan://IQ68037294@81.28.13.9:443?sni=prepared-turkey.rooster465.autos#SG🇸🇬 | prepared-turkey.rooster465.autos-443 | 198.89ms
-trojan://IQ68037294@81.28.13.9:443?sni=prepared-turkey.rooster465.autos#🔒 TR-TCP-NA 🇸🇬 SG-81.28.13.9:443
+trojan://IQ68037294@81.28.13.92:443?sni=curious-oryx.rooster465.autos&type=tcp&fp=chrome#🔒 TR-TCP-NA 🇸🇬 SG-81.28.13.92:443
+trojan://IQ68037294@81.28.13.9:443?sni=prepared-turkey.rooster465.autos#@vpnclashfa - 571
+trojan://IQ68037294@81.28.13.9:443?sni=prepared-turkey.rooster465.autos#SG🇸🇬 | prepared-turkey.rooster465.autos-443 | 182.64ms
+trojan://IQ68037294@81.28.13.9:443?sni=prepared-turkey.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-81.28.13.9:443
 trojan://IQ68037294@82.117.226.104:443?security=tls&sni=robust-toucan.rooster465.autos#🔒 TR-TCP-TLS 🇰🇷 KR-82.117.226.104:443
-trojan://IQ68037294@82.117.226.218:443?sni=whole-perch.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.218:443
+trojan://IQ68037294@82.117.226.218:443?security=tls&sni=whole-perch.rooster465.autos#🔒 TR-TCP-TLS 🇰🇷 KR-82.117.226.218:443
 trojan://IQ68037294@82.117.226.221:443?sni=accurate-drake.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.221:443
-trojan://IQ68037294@82.117.226.225:443?sni=adjusted-labrador.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.225:443
-trojan://IQ68037294@82.117.226.47:443?sni=growing-tuna.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.47:443
-trojan://IQ68037294@82.117.226.88:443?#🔒 TR-TCP-NA 🇰🇷 KR-82.117.226.88:443
-trojan://IQ68037294@85.234.83.141:443?security=tls&sni=integral-elf.rooster465.autos#🔒 TR-TCP-TLS 🇯🇵 JP-85.234.83.141:443
+trojan://IQ68037294@82.117.226.225:443?security=tls&sni=adjusted-labrador.rooster465.autos#🔒 TR-TCP-TLS 🇰🇷 KR-82.117.226.225:443
 trojan://IQ68037294@85.234.83.92:443?sni=enabling-gobbler.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-85.234.83.92:443
 trojan://IQ68037294@87.121.33.27:443?security=tls&sni=eternal-frog.rooster465.autos#🔒 TR-TCP-TLS 🇦🇺 AU-87.121.33.27:443
 trojan://IQ68037294@89.39.70.205:443?allowInsecure=1#🔒 TR-TCP-NA 🇳🇱 NL-89.39.70.205:443
-trojan://IQ68037294@89.39.70.222:443?sni=casual-bullfrog.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇳🇱 NL-89.39.70.222:443
-trojan://IQ68037294@89.39.70.49:443?security=tls&headerType=none&type=tcp&sni=eager-louse.rooster465.autos#%E6%9C%AA%E7%9F%A559%201.4MB%2Fs
-trojan://IQ68037294@89.39.70.49:443?sni=eager-louse.rooster465.autos#@vpnclashfa - 1169
-trojan://IQ68037294@89.39.70.49:443?sni=eager-louse.rooster465.autos#NL🇳🇱 | eager-louse.rooster465.autos-443 | 155.71ms
-trojan://IQ68037294@89.39.70.49:443?sni=eager-louse.rooster465.autos#🔒 TR-TCP-NA 🇳🇱 NL-89.39.70.49:443
+trojan://IQ68037294@89.39.70.222:443?fp=ios#🔒 TR-TCP-NA 🇳🇱 NL-89.39.70.222:443
+trojan://IQ68037294@89.39.70.49:443?fp=chrome#🔒 TR-TCP-NA 🇳🇱 NL-89.39.70.49:443
+trojan://IQ68037294@89.39.70.49:443?sni=eager-louse.rooster465.autos#@vpnclashfa - 572
+trojan://IQ68037294@89.39.70.49:443?sni=eager-louse.rooster465.autos#NL🇳🇱 | eager-louse.rooster465.autos-443 | 169.64ms
 trojan://IQ68037294@91.243.81.101:443?sni=still-mastodon.rooster465.autos&allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-91.243.81.101:443
 trojan://IQ68037294@91.243.81.114:443?sni=happy-mutt.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-91.243.81.114:443
 trojan://IQ68037294@91.243.81.129:443?allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-91.243.81.129:443
@@ -461,145 +588,18 @@ trojan://IQ68037294@95.85.94.148:443?security=tls&sni=next-ringtail.rooster465.a
 trojan://IQ68037294@95.85.94.165:443?security=tls&sni=moved-osprey.rooster465.autos#🔒 TR-TCP-TLS 🇯🇵 JP-95.85.94.165:443
 trojan://IQ68037294@95.85.94.17:443?allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-95.85.94.17:443
 trojan://IQ68037294@95.85.94.90:443?sni=square-anchovy.rooster465.autos&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-95.85.94.90:443
-trojan://IQ68037294@accurate-drake.rooster465.autos:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#@vpnclashfa - 1170
-trojan://IQ68037294@accurate-drake.rooster465.autos:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#KR🇰🇷 | accurate-drake.rooster465.autos-443 | 199.69ms
-trojan://IQ68037294@accurate-drake.rooster465.autos:443?security=tls&sni=accurate-drake.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.221-0172
-trojan://IQ68037294@accurate-drake.rooster465.autos:443?security=tls&sni=accurate-drake.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.221-0191
-trojan://IQ68037294@accurate-drake.rooster465.autos:443?security=tls&sni=accurate-drake.rooster465.autos#🇰🇷[openproxylist.com] trojan-KR
-trojan://IQ68037294@adapted-quetzal.rooster465.autos:443?allowInsecure=1#KR🇰🇷 | adapted-quetzal.rooster465.autos-443 | 187.53ms
-trojan://IQ68037294@adapting-ghost.rooster465.autos:443?allowInsecure=0&sni=adapting-ghost.rooster465.autos#@vpnclashfa - 1171
-trojan://IQ68037294@adapting-ghost.rooster465.autos:443?fp=chrome#@vpnclashfa - 1172
-trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.225-0181
-trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.225-0184
-trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#@vpnclashfa - 1173
-trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#SG🇸🇬 | apt-midge.rooster465.autos-443 | 219.5ms
-trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?allowInsecure=1&sni=artistic-pigeon.rooster465.autos#@vpnclashfa - 1174
-trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?allowInsecure=1&sni=artistic-pigeon.rooster465.autos#KR🇰🇷 | artistic-pigeon.rooster465.autos-443 | 191.86ms
-trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?security=tls&sni=artistic-pigeon.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-109.61.127.24-0154
-trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?security=tls&sni=artistic-pigeon.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-109.61.127.24-0168
-trojan://IQ68037294@aware-pika.rooster465.autos:443?fp=chrome#@vpnclashfa - 1175
-trojan://IQ68037294@brave-cattle.rooster465.autos:443?security=tls&sni=brave-cattle.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.178-0157
-trojan://IQ68037294@brave-cattle.rooster465.autos:443?security=tls&sni=brave-cattle.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.178-0163
+trojan://IQ68037294@accurate-drake.rooster465.autos:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#@vpnclashfa - 573
+trojan://IQ68037294@accurate-drake.rooster465.autos:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#KR🇰🇷 | accurate-drake.rooster465.autos-443 | 188.04ms
+trojan://IQ68037294@accurate-drake.rooster465.autos:443?security=tls&sni=accurate-drake.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.221-0164
+trojan://IQ68037294@accurate-drake.rooster465.autos:443?security=tls&sni=accurate-drake.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.221-0184
+trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.225-0133
+trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-82.117.226.225-0161
+trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#SG🇸🇬 | apt-midge.rooster465.autos-443 | 226.64ms
+trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?allowInsecure=1&sni=artistic-pigeon.rooster465.autos#KR🇰🇷 | artistic-pigeon.rooster465.autos-443 | 187.35ms
+trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?security=tls&sni=artistic-pigeon.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-109.61.127.24-0165
+trojan://IQ68037294@artistic-pigeon.rooster465.autos:443?security=tls&sni=artistic-pigeon.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-109.61.127.24-0177
+trojan://IQ68037294@brave-cattle.rooster465.autos:443?security=tls&sni=brave-cattle.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.178-0155
+trojan://IQ68037294@brave-cattle.rooster465.autos:443?security=tls&sni=brave-cattle.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.178-0178
 trojan://IQ68037294@brave-cattle.rooster465.autos:443?security=tls&sni=brave-cattle.rooster465.autos#🇸🇬[openproxylist.com] trojan-SG
-trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?allowInsecure=0&sni=casual-bullfrog.rooster465.autos#@vpnclashfa - 1176
-trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?fp=ios#@vpnclashfa - 1177
-trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?fp=ios#NL🇳🇱 | casual-bullfrog.rooster465.autos-443 | 180.14ms
-trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?security=tls&sni=casual-bullfrog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.222-0114
-trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?security=tls&sni=casual-bullfrog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.222-0147
-trojan://IQ68037294@casual-stallion.rooster465.autos:443#%F0%9F%87%B8%F0%9F%87%AC122672%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://IQ68037294@casual-stallion.rooster465.autos:443#✅@AR14N24b
-trojan://IQ68037294@casual-stallion.rooster465.autos:443?allowInsecure=0#@vpnclashfa - 1178
-trojan://IQ68037294@casual-stallion.rooster465.autos:443?allowInsecure=0#SG🇸🇬 | casual-stallion.rooster465.autos-443 | 217.27ms
-trojan://IQ68037294@casual-stallion.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.129-0156
-trojan://IQ68037294@casual-stallion.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.129-0163
-trojan://IQ68037294@cheerful-swan.rooster465.autos:443?fp=chrome#@vpnclashfa - 1179
-trojan://IQ68037294@cheerful-swan.rooster465.autos:443?fp=chrome#NL🇳🇱 | cheerful-swan.rooster465.autos-443 | 171.03ms
-trojan://IQ68037294@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-79.133.126.108-0130
-trojan://IQ68037294@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-79.133.126.108-0148
-trojan://IQ68037294@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos#🇳🇱[openproxylist.com] trojan-NL
-trojan://IQ68037294@correct-pony.rooster465.autos:443#@vpnclashfa - 1180
-trojan://IQ68037294@correct-pony.rooster465.autos:443#FR🇫🇷 | correct-pony.rooster465.autos-443 | 153.17ms
-trojan://IQ68037294@correct-pony.rooster465.autos:443?allowInsecure=1&sni=correct-pony.rooster465.autos#@vpnclashfa - 1181
-trojan://IQ68037294@correct-pony.rooster465.autos:443?allowInsecure=1&sni=correct-pony.rooster465.autos#FR🇫🇷 | correct-pony.rooster465.autos-443 | 173.43ms
-trojan://IQ68037294@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.37.222.178-0096
-trojan://IQ68037294@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.37.222.178-0134
-trojan://IQ68037294@dear-ferret.rooster465.autos:443#%F0%9F%87%B5%F0%9F%87%B1121640%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-trojan://IQ68037294@dear-ferret.rooster465.autos:443#@vpnclashfa - 1182
-trojan://IQ68037294@dear-ferret.rooster465.autos:443#PL🇵🇱 | dear-ferret.rooster465.autos-443 | 191.22ms
-trojan://IQ68037294@dear-ferret.rooster465.autos:443?allowInsecure=0&sni=dear-ferret.rooster465.autos#@vpnclashfa - 1183
-trojan://IQ68037294@dear-ferret.rooster465.autos:443?allowInsecure=0&sni=dear-ferret.rooster465.autos#PL🇵🇱 | dear-ferret.rooster465.autos-443 | 196.18ms
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?allowInsecure=0&sni=definite-giraffe.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20030
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?allowInsecure=1&sni=definite-giraffe.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7121527%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M👈 آموزش اتصال 👉⚡️Telegram = @LonUp_M عضو شو
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?allowInsecure=1&sni=definite-giraffe.rooster465.autos#FR🇫🇷 | definite-giraffe.rooster465.autos-443 | 156.09ms
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?fp=chrome#@vpnclashfa - 1184
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?fp=chrome#FR🇫🇷 | definite-giraffe.rooster465.autos-443 | 157.94ms
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?security=tls&headerType=none&type=tcp&sni=definite-giraffe.rooster465.autos#%E6%9C%AA%E7%9F%A557%202.0MB%2Fs
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=definite-giraffe.rooster465.autos#@vpnclashfa - 1185
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=definite-giraffe.rooster465.autos#FR🇫🇷 | definite-giraffe.rooster465.autos-443 | 176.23ms
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?security=tls&sni=definite-giraffe.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.89.72-0095
-trojan://IQ68037294@definite-giraffe.rooster465.autos:443?security=tls&sni=definite-giraffe.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.89.72-0136
-trojan://IQ68037294@desired-pony.rooster465.autos:443?allowInsecure=0&sni=desired-pony.rooster465.autos#FR🇫🇷 | desired-pony.rooster465.autos-443 | 156.16ms
-trojan://IQ68037294@desired-pony.rooster465.autos:443?fp=chrome#@vpnclashfa - 1186
-trojan://IQ68037294@desired-pony.rooster465.autos:443?fp=chrome#FR🇫🇷 | desired-pony.rooster465.autos-443 | 164.63ms
-trojan://IQ68037294@desired-tahr.rooster465.autos:443?security=tls&sni=desired-tahr.rooster465.autos#🇭🇰[openproxylist.com] trojan-HK
-trojan://IQ68037294@distinct-ibex.rooster465.autos:443?fp=chrome#@vpnclashfa - 1187
-trojan://IQ68037294@distinct-ibex.rooster465.autos:443?fp=chrome#NL🇳🇱 | distinct-ibex.rooster465.autos-443 | 159.01ms
-trojan://IQ68037294@eager-louse.rooster465.autos:443?fp=chrome#@vpnclashfa - 1188
-trojan://IQ68037294@eager-louse.rooster465.autos:443?fp=chrome#NL🇳🇱 | eager-louse.rooster465.autos-443 | 166.63ms
-trojan://IQ68037294@eager-louse.rooster465.autos:443?security=tls&sni=eager-louse.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.49-0126
-trojan://IQ68037294@eager-louse.rooster465.autos:443?security=tls&sni=eager-louse.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.49-0187
-trojan://IQ68037294@eager-louse.rooster465.autos:443?security=tls&sni=eager-louse.rooster465.autos#🇳🇱[openproxylist.com] trojan-NL
-trojan://IQ68037294@enabling-gobbler.rooster465.autos:443?allowInsecure=0&sni=enabling-gobbler.rooster465.autos#@vpnclashfa - 1189
-trojan://IQ68037294@enabling-gobbler.rooster465.autos:443?allowInsecure=0&sni=enabling-gobbler.rooster465.autos#JP🇯🇵 | enabling-gobbler.rooster465.autos-443 | 113.04ms
-trojan://IQ68037294@enabling-gobbler.rooster465.autos:443?fp=chrome#@vpnclashfa - 1190
-trojan://IQ68037294@enabling-gobbler.rooster465.autos:443?fp=chrome#JP🇯🇵 | enabling-gobbler.rooster465.autos-443 | 157.95ms
-trojan://IQ68037294@endless-kiwi.rooster465.autos:443?allowInsecure=1#@vpnclashfa - 1191
-trojan://IQ68037294@endless-kiwi.rooster465.autos:443?allowInsecure=1#SG🇸🇬 | endless-kiwi.rooster465.autos-443 | 221.82ms
-trojan://IQ68037294@endless-kiwi.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.211-0153
-trojan://IQ68037294@endless-kiwi.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.211-0162
-trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-frog.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.27-0202
-trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-frog.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.27-0204
-trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-frog.rooster465.autos#🇦🇺[openproxylist.com] trojan-AU
-trojan://IQ68037294@eternal-swift.rooster465.autos:443?security=tls&sni=eternal-swift.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.236-0112
-trojan://IQ68037294@eternal-swift.rooster465.autos:443?security=tls&sni=eternal-swift.rooster465.autos#🇵🇱[openproxylist.com] trojan-PL
-trojan://IQ68037294@fair-reptile.rooster465.autos:443?security=tls&sni=fair-reptile.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.63-0152
-trojan://IQ68037294@fair-reptile.rooster465.autos:443?security=tls&sni=fair-reptile.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.63-0159
-trojan://IQ68037294@fair-reptile.rooster465.autos:443?security=tls&sni=fair-reptile.rooster465.autos#🇸🇬[openproxylist.com] trojan-SG
-trojan://IQ68037294@firm-warthog.rooster465.autos:443?allowInsecure=0&sni=firm-warthog.rooster465.autos#FR🇫🇷 | firm-warthog.rooster465.autos-443 | 159.4ms
-trojan://IQ68037294@firm-warthog.rooster465.autos:443?fp=chrome#@vpnclashfa - 1192
-trojan://IQ68037294@firm-warthog.rooster465.autos:443?fp=chrome#FR🇫🇷 | firm-warthog.rooster465.autos-443 | 164.58ms
-trojan://IQ68037294@flexible-pony.rooster465.autos:443?allowInsecure=0&sni=flexible-pony.rooster465.autos#@vpnclashfa - 1193
-trojan://IQ68037294@flexible-pony.rooster465.autos:443?allowInsecure=0&sni=flexible-pony.rooster465.autos#JP🇯🇵 | flexible-pony.rooster465.autos-443 | 151.03ms
-trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.26-0142
-trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.26-0158
-trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#@vpnclashfa - 1194
-trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#SG🇸🇬 | full-mackerel.rooster465.autos-443 | 214.1ms
-trojan://IQ68037294@fun-salmon.rooster465.autos:443?security=tls&sni=fun-salmon.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.169-0147
-trojan://IQ68037294@fun-salmon.rooster465.autos:443?security=tls&sni=fun-salmon.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.169-0167
-trojan://IQ68037294@fun-salmon.rooster465.autos:443?security=tls&sni=fun-salmon.rooster465.autos#🇸🇬[openproxylist.com] trojan-SG
-trojan://IQ68037294@giving-bird.rooster465.autos:443?allowInsecure=1#@vpnclashfa - 1195
-trojan://IQ68037294@giving-bird.rooster465.autos:443?allowInsecure=1#SG🇸🇬 | giving-bird.rooster465.autos-443 | 232.87ms
-trojan://IQ68037294@giving-bird.rooster465.autos:443?security=tls&sni=giving-bird.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.159-0145
-trojan://IQ68037294@giving-bird.rooster465.autos:443?security=tls&sni=giving-bird.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.159-0157
-trojan://IQ68037294@giving-bird.rooster465.autos:443?security=tls&sni=giving-bird.rooster465.autos#🇸🇬[openproxylist.com] trojan-SG
-trojan://IQ68037294@glad-javelin.rooster465.autos:443?allowInsecure=0&sni=glad-javelin.rooster465.autos#@vpnclashfa - 1196
-trojan://IQ68037294@glad-javelin.rooster465.autos:443?fp=chrome#@vpnclashfa - 1197
-trojan://IQ68037294@glowing-deer.rooster465.autos:443?allowInsecure=0#SG🇸🇬 | glowing-deer.rooster465.autos-443 | 222.58ms
-trojan://IQ68037294@glowing-deer.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.48-0148
-trojan://IQ68037294@glowing-deer.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.48-0174
-trojan://IQ68037294@guided-warthog.rooster465.autos:443?allowInsecure=1&sni=guided-warthog.rooster465.autos#@vpnclashfa - 1198
-trojan://IQ68037294@happy-mutt.rooster465.autos:443?allowInsecure=0&sni=happy-mutt.rooster465.autos#@vpnclashfa - 1199
-trojan://IQ68037294@happy-mutt.rooster465.autos:443?allowInsecure=0&sni=happy-mutt.rooster465.autos#SG🇸🇬 | happy-mutt.rooster465.autos-443 | 219.13ms
-trojan://IQ68037294@helpful-possum.rooster465.autos:443?allowInsecure=0#@vpnclashfa - 1200
-trojan://IQ68037294@helpful-possum.rooster465.autos:443?allowInsecure=0#SG🇸🇬 | helpful-possum.rooster465.autos-443 | 227.51ms
-trojan://IQ68037294@humane-bird.rooster465.autos:443?fp=chrome#@vpnclashfa - 1201
-trojan://IQ68037294@humane-bird.rooster465.autos:443?fp=chrome#FR🇫🇷 | humane-bird.rooster465.autos-443 | 176.71ms
-trojan://IQ68037294@humane-bird.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.161.149-0099
-trojan://IQ68037294@humane-bird.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.161.149-0102
-trojan://IQ68037294@humane-hawk.rooster465.autos:443?allowInsecure=0&sni=humane-hawk.rooster465.autos#@vpnclashfa - 1202
-trojan://IQ68037294@humane-hawk.rooster465.autos:443?allowInsecure=0&sni=humane-hawk.rooster465.autos#SG🇸🇬 | humane-hawk.rooster465.autos-443 | 237.55ms
-trojan://IQ68037294@humane-hawk.rooster465.autos:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC122660%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://IQ68037294@humane-hawk.rooster465.autos:443?allowInsecure=1#✅@AR14N24b
-trojan://IQ68037294@immortal-woodcock.rooster465.autos:443#%F0%9F%87%B0%F0%9F%87%B7122007%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonU
-trojan://IQ68037294@immortal-woodcock.rooster465.autos:443#@vpnclashfa - 1203
-trojan://IQ68037294@immune-earwig.rooster465.autos:443?fp=chrome#@vpnclashfa - 1204
-trojan://IQ68037294@immune-earwig.rooster465.autos:443?fp=chrome#FR🇫🇷 | immune-earwig.rooster465.autos-443 | 170.91ms
-trojan://IQ68037294@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#@vpnclashfa - 1205
-trojan://IQ68037294@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#SG🇸🇬 | internal-sunbird.rooster465.autos-443 | 219.93ms
-trojan://IQ68037294@key-gnat.rooster465.autos:443#@vpnclashfa - 1206
-trojan://IQ68037294@major-duckling.rooster465.autos:443?allowInsecure=0#JP🇯🇵 | major-duckling.rooster465.autos-443 | 147.79ms
-trojan://IQ68037294@major-duckling.rooster465.autos:443?security=tls&sni=major-duckling.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-95.85.94.17-0195
-trojan://IQ68037294@major-duckling.rooster465.autos:443?security=tls&sni=major-duckling.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-95.85.94.17-0196
-trojan://IQ68037294@meet-doe.rooster465.autos:443?security=tls&sni=meet-doe.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.100-0146
-trojan://IQ68037294@meet-doe.rooster465.autos:443?security=tls&sni=meet-doe.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.100-0168
-trojan://IQ68037294@meet-doe.rooster465.autos:443?security=tls&sni=meet-doe.rooster465.autos#🇸🇬[openproxylist.com] trojan-SG
-trojan://IQ68037294@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-buzzard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.125-0126
-trojan://IQ68037294@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-buzzard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.125-0158
-trojan://IQ68037294@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-buzzard.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://IQ68037294@moved-osprey.rooster465.autos:443?security=tls&sni=moved-osprey.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-95.85.94.165-0131
-trojan://IQ68037294@moved-osprey.rooster465.autos:443?security=tls&sni=moved-osprey.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-95.85.94.165-0139
-trojan://IQ68037294@moved-osprey.rooster465.autos:443?security=tls&sni=moved-osprey.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-trojan://IQ68037294@moving-wren.rooster465.autos:443?fp=chrome#@vpnclashfa - 1207
-trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moving-wren.rooster465.autos#@vpnclashfa - 1208
-trojan://IQ68037294@neat-duck.rooster465.autos:443?security=tls&sni=neat-duck.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.220-0151
-trojan://IQ68037294@neat-duck.rooster465.autos:443?security=tls&sni=neat-duck.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-45.135.228.220-0165
+trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?allowInsecure=0&sni=casual-bullfrog.rooster465.autos#NL🇳🇱 | casual-bullfrog.rooster465.autos-443 | 164.11ms
+trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?fp=ios#NL🇳🇱 | casual-bullfrog.rooster465.autos-443 | 180.02ms
